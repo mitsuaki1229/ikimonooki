@@ -1,31 +1,48 @@
+<!DOCTYPE html>
 <html>
   <head>
       <meta charset="UTF-8">
-      <link rel="stylesheet" href="assets/style.css"/>
+      <link rel="stylesheet" href="assets/css/style.css"/>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="assets/js/script.js" ></script>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       <title>トップページ</title>
   </head>
+
+  <header>
+    <button type="button" id="js-buttonHamburger" class="c-button p-hamburger" aria-controls="global-nav" aria-expanded="false">
+      <span class="p-hamburger__line">
+        <span class="u-visuallyHidden">
+          メニューを開閉する
+        </span>
+      </span>
+    </button>
+
+    <nav id="nav">
+      <ul>
+        <li><a href="#">情報</a></li>
+        <li><a href="#">生体</a></li>
+        <li><a href="#">植物</a></li>
+        <li><a href="#">書籍</a></li>
+        <li><a href="#">器具</a></li>
+        <li><a href="specified-commercial-transactions-law">特定商取引法表示</a></br></li>
+      </ul>
+    </nav>
+  </header>
+
   <body>
-    <link rel="stylesheet" href="assets/style.css"/>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    
-    * 情報</br>
-    * 生体</br>
-    * 植物</br>
-    * 書籍</br>
-    * 器具</br>
-    * <a href="specified-commercial-transactions-law">特定商取引法表示</a></br>
-    
-    ikimonooki(いきものおき)にようこそ。</br>
-    
-    お知らせ。</br>
-    
-    現在更新中です。</br>
+    <div>
+      ikimonooki(いきものおき)にようこそ。
+    </div>
+    <div>
+      <h1>お知らせ</h1>
+      現在更新中です。
+    </div>
+    <div>
+      このサイトは、下記ソースで出来ています。</br>
+      <a href="https://github.com/mitsuaki1229/ikimonooki">GitHub/mitsuaki1229/ikimonooki</a></br>
+    </div>
 
-    このサイトは、</br>
-    下記ソースで出来ています。</br>
-
-    <a href="https://github.com/mitsuaki1229/ikimonooki">GitHub/mitsuaki1229/ikimonooki</a></br>
-    
     <a class="twitter-timeline" data-width="340" data-height="500" href="https://twitter.com/ikimonooki?ref_src=twsrc%5Etfw">Tweets by ikimonooki</a></br>
     
     <a href="https://www.instagram.com/ikimonooki">Instagram</a></br>
