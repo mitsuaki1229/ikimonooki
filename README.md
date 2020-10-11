@@ -1,7 +1,7 @@
 ikimonooki
 ====
 
-. [ikimonooki website.](https://ikimonooki.com)
+[ikimonooki website.](https://ikimonooki.com)
 
 ## Author
 
