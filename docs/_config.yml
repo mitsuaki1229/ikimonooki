@@ -20,6 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   爬虫類の購入相談大歓迎！Twitter経由で簡単に質問・購入できます。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ikimonooki.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter:
+  username: ikimonooki
+  card: summary
 twitter_username: ikimonooki
 github_username:  mitsuaki1229
 
