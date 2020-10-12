@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
+## Links
+
+* [GitHub/mitsuaki1229/ikimonooki](https://github.com/mitsuaki1229/ikimonooki)
+* [Instagram](https://www.instagram.com/ikimonooki)
+
+## Memo
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:

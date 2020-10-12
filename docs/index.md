@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+ikimonooki(いきものおき)にようこそ。
+
+## お知らせ
+
+現在更新中です。  
+御用の方はTwitterからご連絡下さい。
+
+Copyright © 2020 ikimonooki All Rights Reserved

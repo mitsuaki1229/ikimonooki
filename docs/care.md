@@ -1,0 +1,7 @@
+---
+layout: page
+title: Care
+permalink: /care/
+---
+
+飼育情報のページです。
