@@ -1,11 +1,12 @@
 ikimonooki
 ====
 
-[ikimonooki website.](https://ikimonooki.com)
+[ikimonooki](https://ikimonooki.com) website.
 
 ## Requirement
 
-[Bundler](https://bundler.io/)
+* [Bundler](https://bundler.io/)
+* [Jekyll](https://jekyllrb.com/)
 
 ## Install
 
@@ -20,6 +21,11 @@ $ bundle install
 $ cd docs/
 $ bundle exec jekyll serve
 ```
+
+## Licence
+
+* [No License](https://choosealicense.com/no-permission/)
+* Copyright © 2020 ikimonooki All Rights Reserved
 
 ## Author
 
