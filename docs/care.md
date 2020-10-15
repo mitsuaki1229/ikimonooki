@@ -8,3 +8,4 @@ permalink: /care/
 
 * [Creatures](/care/creatures)
 * [Plants](/care/plants)
+* [Notes](/care/notes)
