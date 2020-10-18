@@ -10,4 +10,4 @@ permalink: /about/
 ## Links
 
 * [GitHub/mitsuaki1229/ikimonooki](https://github.com/mitsuaki1229/ikimonooki)
-* [Instagram](https://www.instagram.com/ikimonooki)
+* [Instagram@ikimonooki](https://www.instagram.com/ikimonooki)
