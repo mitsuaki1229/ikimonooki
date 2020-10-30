@@ -29,6 +29,7 @@ github_username:  mitsuaki1229
 # Build settings
 markdown: kramdown
 theme: minima
+google_analytics: G-Y407T7TX68
 plugins:
   - jekyll-feed
   - jekyll-sitemap
