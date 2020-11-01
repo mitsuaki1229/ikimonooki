@@ -18,4 +18,4 @@ ikimonooki(いきものおき)にようこそ。
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a class="twitter-timeline" data-width="100%" data-height="500" href="https://twitter.com/ikimonooki?ref_src=twsrc%5Etfw">Tweets by ikimonooki</a>
 
-Copyright © 2020 ikimonooki All Rights Reserved
+### Info
