@@ -35,10 +35,10 @@
     - シゾバシス・イントリカータ
     - 耐寒性:USDA Hardiness Zones possibly 9b or 10a, 冬場外で行けるとの記載を見かけた。断水気味で5度以上との記載もあり。
 * Dorstenia foetida
-    - 耐寒性:寒さに弱い、休眠中も多少の水やりが必要との記載あり。
+    - 耐寒性:USDA Hardiness Zones 10, 寒さに弱い、休眠中も多少の水やりが必要との記載あり。
 * Adenium obesum
     - 砂漠のバラ
-    - 耐寒性:寒さに弱い、休眠中も日光に当てる。
+    - 耐寒性:USDA Hardiness Zones 10a - 12、休眠中も日光に当てた方が良い。
 * Xerosicyos danganyii
     - グリーンドラム
     - 耐寒性:寒さに多少弱い。5度以上？0度くらいでも行けるという記載は見たことがあるが。。
@@ -46,7 +46,7 @@
     - エケベリア・ルンヨニーの突然変異種
     - 耐寒性:高いとの記載有り。
 * Petopentia natalensis
-    - 耐寒性:よくわからないが、8度くらいまで持つという記載あり。
+    - 耐寒性:度くらいまで持つという記載あり。
     - 葉っぱをリクガメに全て食われたので、復活するか様子見中。 2020/11/14
 * Haworthiopsis tessellata(Haworthia tessellata)
     - ハオルチア・テッセラータ
@@ -65,7 +65,7 @@
     - ガラパゴスウチワ
     - 耐寒性:USDA Hardiness Zones 9b - 11、日本での記述だと-5度ほどあるらしい。
 * Cotyledon orbiculata
-    - 耐寒性:日本だと5~8度以上、海外だと-1~-5度以上という記載がある。気候も違うと思うので、どちらが正しいか不明。軒下で越冬できるか試してみるか。
+    - 耐寒性:USDA Hardiness Zones 9b - 12、日本だと5~8度以上との記載がある。
 * Aloe lineata
     - アロエ リネアータ
     - 耐寒性:USDA Hardiness Zones 9b - 11、日本では0度くらいまでの記載有り。
@@ -99,10 +99,28 @@
 * Gasteria gracilis var.minima
     - 子宝
     - 南アフリカの東南部、ナタール地方
-    - 耐寒性:
+    - 耐寒性:USDA Hardiness Zones 9 - 11
 * Gasteria Flow
     - ガステリアとアロエのハイブリッド
     - 耐寒性:USDA Hardiness Zones 9b - 11b
+* Tectaria decurrens
+    - ナナバケシダ
+    - 耐寒性:低
+* Colysis pothifolia
+    - オオイワヒトデ
+    - 耐寒性:？
+* Euphorbia francoisii
+    - ユーフォルビア・フランコイシー
+    - 耐寒性:USDA Hardiness Zones 10a - 11b
+* Neoregelia
+    - ネオレゲリア    
+    - 耐寒性:USDA Hardiness Zones possibly 10b - 12
+* Ficus microcarpa
+    - ガジュマル
+    - USDA Hardiness Zones 9 - 12
+* Ficus rubiginosa
+    - フランスゴムの木
+    - USDA Hardiness Zones 10B - 11
 
 ### 過去育成履歴
 
@@ -114,3 +132,4 @@
     - 生息限界なので、ある程度上のランクで考えたほうが良いと個人的には思う。
     - https://worldofsucculents.com/usda-hardiness-zones/
     - 耐寒性に関して、水やりの頻度や冷たい風がくるか来ないかなどの外部環境で、結果が変わってくるので、あくまで参考になるくらい。
+    - Zones9辺りの植物は、霜に弱いので軒下に置く必要がある？
