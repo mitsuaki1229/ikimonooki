@@ -121,6 +121,15 @@
 * Ficus rubiginosa
     - フランスゴムの木
     - USDA Hardiness Zones 10B - 11
+* Stephanotis floribunda
+    - マダガスカルジャスミン
+    - USDA Hardiness Zones 10A - 11
+* Drynaria quercifolia
+    - ドリナリア・クエルシフォリア
+    - USDA Hardiness Zones possibly 10a - 11
+* Sansevieria pinguicula
+    - サンスベリア・ピングイキュラ
+    - USDA Hardiness Zones possibly 8b - 11
 
 ### 過去育成履歴
 
