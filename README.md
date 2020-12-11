@@ -7,8 +7,15 @@ ikimonooki
 
 * [Bundler](https://bundler.io/)
 * [Jekyll](https://jekyllrb.com/)
+* [rbenv](https://github.com/rbenv/rbenv)
 
 ## Install
+
+```shell
+$ rbenv install 2.7.1
+$ rbenv local 2.7.1
+$ rbenv rehash
+```
 
 ```shell
 $ cd docs/
