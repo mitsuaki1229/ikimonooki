@@ -165,7 +165,11 @@
 * Philodendron imbe 'Silver Metal'
     - フィロデンドロン シルバーメタル
     - 耐寒性:最低温度が1~4度くらいの時期に、外の風が吹く場所に置いていたら、若い葉が溶けるように枯れ始めた。成長した葉っぱは大丈夫そうだが取り込み。 2020/12/20 12:27
-    - USDA Hardiness Zones 9b -11
+    - USDA Hardiness Zones 9b - 11
+* Lycoris radiata var. radiata 'Kagaribi' (aka: Yaezaki)
+    - 彼岸花 八重咲き
+    - 毒があるので、ペットの誤食に注意。
+    - USDA Hardiness Zones possibly 5b - 10
 
 ### 過去育成履歴
 
