@@ -155,6 +155,13 @@
 * Sansevieria pinguicula
     - サンスベリア・ピングイキュラ
     - USDA Hardiness Zones possibly 8b - 11
+* Dioscorea elephantipes
+    - キッコウリュウ
+    - USDA Hardiness Zones 9b - 11b
+* Epipremnum aureum
+    - ポトス
+    - 最低温度が1~4度くらいの時期に、外の風が吹く場所に置いていたら枯れそうになった。軒下のは大丈夫そうなのでもう少し様子を見る。 2020/12/20 12:27
+    - USDA Hardiness Zones 9b - 11
 
 ### 過去育成履歴
 
