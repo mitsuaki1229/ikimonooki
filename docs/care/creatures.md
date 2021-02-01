@@ -8,59 +8,71 @@
 
 ### 爬虫類
 
+#### カメ
+
 * チェニジア地中海リクガメ
 * リビア地中海リクガメ
 * ソマリアリクガメ
-* パンケーキリクガメ
-* ニシベルセオレガメ
+* パンケーキリクガメ(Malacochersus tornieri)
+* ニシベルセオレガメ(Kinixys belliana)
 * ホームセオレガメ
 * [モリセオレガメ](creatures/Kinixys-erosa)
 * スペングラーヤマガメ
-* ミシシッピニオイガメ
-* ヌマヨコクビガメ
+* ミシシッピニオイガメ(Sternotherus odoratus)
+* ヌマヨコクビガメ(Pelomedusa subrufa)
     - 冬場、産地にもよると思うが、半冬眠状態で飼育出来ていた。
-* クリイロハコヨコクビガメ
+* クリイロハコヨコクビガメ(Pelusios castaneus)
 * オカバンゴハコヨコクビガメ(Pelusios bechuanicus)
 * バルカンヌマガメ
-* モロッコイシガメ(Mauremys leprosa)
+* モロッコイシガメ(Mauremys leprosa marokkensis)
+* モロッコイシガメ(Mauremys leprosa ssp.)
+* スペインイシガメ(Mauremys leprosa leprosa)
 * ミシシッピアカミミガメ(ミドリガメ)
 * クサガメ(Mauremys reevesii)
 * ニホンイシガメ(Mauremys japonica)
 * セネガルフタスッポン(Cyclanorbis senegalensis)
-* セネガルカメレオン
+
+#### トカゲ
+
+* セネガルカメレオン(Chamaeleo senegalensis)
 * エボシカメレオン(Chamaeleo calyptratus)
-* ルディスカメレオン
-* ディレピスカメレオン
-* デレマカメレオン
-* カーペットカメレオン
-* メラーカメレオン
-* グラキリスカメレオン
+* ルディスカメレオン(Chamaeleo rudis)
+* ディレピスカメレオン(Chamaeleo dilepis)
+* デレマカメレオン(Trioceros deremensis)
+* カーペットカメレオン(Furcifer lateralis)
+* メラーカメレオン(Chamaeleo melleri)
+* グラキリスカメレオン(Chamaeleo gracilis)
 * スペクトラルコノハカメレオン
 * ソマリコノハカメレオン
 * ヒゲコノハカメレオン
-* ジョンストンカメレオン
-* フィッシャーカメレオン
-* エメラルドツリーモニター
-* ニホントカゲ
-* カナヘビ
-* サキシマカナヘビ
-* オキナワキノボリトカゲ
+* ジョンストンカメレオン(Trioceros johnstoni)
+    - カメレオン飼育にハマった時のきっかけ。
+* フィッシャーカメレオン(Bradypodion fischeri)
+* エメラルドツリーモニター(Varanus prasinus)
+* ニホントカゲ(Plestiodon japonicus)
+* ニホンカナヘビ (Takydromus tachydromoides)
+* サキシマカナヘビ(Takydromus dorsalis)
+* オキナワキノボリトカゲ(Diploderma polygonatum polygonatum Hallowell)
+* サキシマキノボリトカゲ(Diploderma polygonatum ishigakiensis)
 * サバクツノトカゲ
+* ヒナタヨロイトカゲ
 * ゲイリートゲオアガマ
 * シュナイダースキンク
 * ニシアフリカトカゲモドキ
 * トッケイヤモリ
 * ブルークスナキヤモリ
-* ヒナタヨロイトカゲ
-* カリフォルニアキングスネーク
-* アフリカ産ヤモリ
 * ホオグロヤモリ
-* クラカケカベヤモリ
-* オガサワラヤモリ
+* クラカケカベヤモリ(Tarentola ephippiata)
+* オガサワラヤモリ(Lepidodactylus lugubris)
 * ニホンヤモリ
+* アフリカ産ヤモリ
+
+#### ヘビ
+
+* カリフォルニアキングスネーク
 * アフリカンハウススネーク
 * サビイロクチバシヘビ
-* クロスサンカクヘビ
+* クロスサンカクヘビ(Mehelya crossi)
 * ヘラルドスネーク
 * アオダイショウ
 * シマヘビ
@@ -69,8 +81,7 @@
 * ボールパイソン
 * ケニアサンドボア
 * コーンスネーク
-* サキシママダラ
-* サキシマキノボリトカゲ
+* サキシママダラ(Dinodon rufozonatum walli)
 
 ### 両生類
 
@@ -134,6 +145,7 @@
 ### 鳥類
 
 * 九官鳥
+* 鶉
 
 ### 貝
 
