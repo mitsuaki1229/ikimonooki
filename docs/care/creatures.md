@@ -15,8 +15,8 @@
 * ソマリアリクガメ
 * パンケーキリクガメ(Malacochersus tornieri)
 * ニシベルセオレガメ(Kinixys belliana)
-* [ホームセオレガメ(Kinixys homeana)](Kinixys-homeana)
-* [モリセオレガメ](Kinixys-erosa)
+* [ホームセオレガメ(Kinixys homeana)](creatures/Kinixys-homeana)
+* [モリセオレガメ](creatures/Kinixys-erosa)
 * スペングラーヤマガメ
 * ミシシッピニオイガメ(Sternotherus odoratus)
 * ヌマヨコクビガメ(Pelomedusa subrufa)
