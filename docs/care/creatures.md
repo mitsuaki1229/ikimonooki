@@ -17,7 +17,7 @@
 * ニシベルセオレガメ(Kinixys belliana)
 * [ホームセオレガメ(Kinixys homeana)](creatures/Kinixys-homeana)
 * [モリセオレガメ](creatures/Kinixys-erosa)
-* スペングラーヤマガメ
+* スペングラーヤマガメ(Geoemyda spengleri)
 * ミシシッピニオイガメ(Sternotherus odoratus)
 * ヌマヨコクビガメ(Pelomedusa subrufa)
     - 冬場、産地にもよると思うが、半冬眠状態で飼育出来ていた。
@@ -42,9 +42,9 @@
 * カーペットカメレオン(Furcifer lateralis)
 * メラーカメレオン(Chamaeleo melleri)
 * グラキリスカメレオン(Chamaeleo gracilis)
-* スペクトラルコノハカメレオン
-* ソマリコノハカメレオン
-* ヒゲコノハカメレオン
+* スペクトラルコノハカメレオン(Rhampholeon spectrum)
+* ソマリコノハカメレオン(Rieppeleon kerstenii)
+* ヒゲコノハカメレオン(Rieppeleon brevicaudatus)
 * ジョンストンカメレオン(Trioceros johnstoni)
     - カメレオン飼育にハマった時のきっかけ。
 * フィッシャーカメレオン(Bradypodion fischeri)
@@ -54,14 +54,14 @@
 * サキシマカナヘビ(Takydromus dorsalis)
 * オキナワキノボリトカゲ(Diploderma polygonatum polygonatum Hallowell)
 * サキシマキノボリトカゲ(Diploderma polygonatum ishigakiensis)
-* サバクツノトカゲ
-* ヒナタヨロイトカゲ
-* ゲイリートゲオアガマ
+* サバクツノトカゲ(Phrynosoma platyrhinos)
+* ヒナタヨロイトカゲ(Cordylus tropidosternum)
+* ゲイリートゲオアガマ(Uromastyx geyri)
 * シュナイダースキンク
 * ニシアフリカトカゲモドキ
 * トッケイヤモリ
 * ブルークスナキヤモリ
-* ホオグロヤモリ
+* ホオグロヤモリ(Hemidactylus frenatus)
 * クラカケカベヤモリ(Tarentola ephippiata)
 * オガサワラヤモリ(Lepidodactylus lugubris)
 * ニホンヤモリ
@@ -69,7 +69,7 @@
 
 #### ヘビ
 
-* カリフォルニアキングスネーク
+* カリフォルニアキングスネーク(Lampropeltis californiae)
 * アフリカンハウススネーク
 * サビイロクチバシヘビ
 * クロスサンカクヘビ(Mehelya crossi)
