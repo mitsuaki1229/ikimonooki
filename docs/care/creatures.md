@@ -107,7 +107,7 @@
 * シャイニーバロースコーピオン
 * マダガスカルコックローチ
 * デュビア
-* レッドローチ
+* [レッドローチ(Shelfordella lateralis)](creatures/shelfordella-lateralis.md)
 * ヨーロッパイエコオロギ
 * フタホシコオロギ
 * ジャイアントミルワーム
