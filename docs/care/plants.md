@@ -54,6 +54,7 @@
 * Epipremnum aureum
     - ポトス
     - 耐寒性:最低温度が1~4度くらいの時期に、外の風が吹く場所に置いていたら枯れそうになった。軒下のは大丈夫そうなのでもう少し様子を見る。 2020/12/20 12:27
+    - ポトス原種、葉っぱの色が変わってきたので取り込む。霜が降りた際に流通種は枯れた。 2021/01/12
     - USDA Hardiness Zones 9b - 11
 * Epiphyllum guatemalense
     - カーリーロックサボテン
@@ -122,9 +123,15 @@
     - 耐寒性:室内のほうが安全そうかな。
     - USDA Hardiness Zones 10a - 11b
 * Opuntia galapageia
-    - ガラパゴスウチワ
+    - ガラパゴスウチワサボテン
     - 耐寒性:日本での記述だと-5度ほどあるらしい。
+    - カイガラムシがよくつく。
+    - 外に置きっぱなししていたら少し枯れてきたようにも見える。 2021/02/07
     - USDA Hardiness Zones 9b - 11
+* Opuntia ficus-indica 'Burbank Spineless'
+    - バーバンクウチワサボテン
+    - 耐寒性:雪が積もってても耐えるらしい。
+    - USDA Hardiness Zones 9a - 11
 * Euphorbia meloformis
     - 貴青玉
     - 耐寒性:日本では割と強いらしい。
@@ -162,6 +169,7 @@
 * Sansevieria pinguicula
     - サンスベリア・ピングイキュラ
     - USDA Hardiness Zones possibly 8b - 11
+    - 2021/01/23 霜が出た日に枯れてきてるように見えるので、8bだとしても日本の環境だと厳しそう。
 * Philodendron imbe 'Silver Metal'
     - フィロデンドロン シルバーメタル
     - 耐寒性:最低温度が1~4度くらいの時期に、外の風が吹く場所に置いていたら、若い葉が溶けるように枯れ始めた。成長した葉っぱは大丈夫そうだが取り込み。 2020/12/20 12:27
@@ -170,6 +178,8 @@
     - 彼岸花 八重咲き
     - 毒があるので、ペットの誤食に注意。
     - USDA Hardiness Zones possibly 5b - 10
+* ???
+    - ダイソーで3つ買ってた植物、マイナスの気温の時に外に出してたら葉っぱが枯れてた。ので。2021/01/11に取り込んだが、そのまま枯れた。2021/02/07
 
 ### 過去育成履歴
 
@@ -184,3 +194,4 @@
     - Zones9辺りの植物は、霜に弱いので軒下に置く必要がある？
 * 日本のUSDA Hardiness zoneが表示されてるサイト。
     - [Japan Interactive Plant Hardiness Zone Map](https://www.plantmaps.com/interactive-japan-plant-hardiness-zone-map-celsius.php)
+* ウチワサボテンのカイガラムシは水やりの時に水で飛ばす。
