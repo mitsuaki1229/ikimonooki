@@ -15,15 +15,15 @@
 * ソマリアリクガメ
 * パンケーキリクガメ(Malacochersus tornieri)
 * ニシベルセオレガメ(Kinixys belliana)
-* [ホームセオレガメ(Kinixys homeana)](creatures/Kinixys-homeana)
-* [モリセオレガメ](creatures/Kinixys-erosa)
+* [ホームセオレガメ(Kinixys homeana)](creatures/kinixys-homeana)
+* [モリセオレガメ](creatures/kinixys-erosa)
 * スペングラーヤマガメ(Geoemyda spengleri)
 * ミシシッピニオイガメ(Sternotherus odoratus)
 * ヌマヨコクビガメ(Pelomedusa subrufa)
     - 冬場、産地にもよると思うが、半冬眠状態で飼育出来ていた。
 * クリイロハコヨコクビガメ(Pelusios castaneus)
 * オカバンゴハコヨコクビガメ(Pelusios bechuanicus)
-* バルカンヌマガメ
+* [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica)
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * モロッコイシガメ(Mauremys leprosa ssp.)
 * スペインイシガメ(Mauremys leprosa leprosa)
