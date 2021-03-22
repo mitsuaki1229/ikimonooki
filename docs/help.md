@@ -22,12 +22,14 @@ permalink: /help/
 
 ## 特定商取引法に基づく表記
 
+
+
 |||
 | ------- | ------- |
 | 販売主 | ikimonooki |
 | 販売・動物取扱責任者 | [Mitsuaki Ihara](https://about.me/mitsuaki1229) |
 | 所在地 | 神奈川県 |
-| 連絡先 | [Twitter@ikimonooki](https://twitter.com/ikimonooki) <br><a href="tel:050-5435-6406">050-5435-6406</a> |
+| 連絡先 | [Twitter@ikimonooki](https://twitter.com/ikimonooki)<br><a href="tel:050-5435-6406">050-5435-6406</a><br>[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSciDNlaG6wREvk-JSGTqiDJhya-Tsjt9Lu2RXWX-ah64RjwEA/viewform) |
 | 商品代金以外の必要金額 | 送料<br>お振込み手数料お客様ご負担 |
 | お申込み有効期限 | ご注文日を含めて14日間 |
 | 商品引渡し時期 | ご入金確認後、3日以内に発送 |
