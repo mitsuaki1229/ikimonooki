@@ -44,7 +44,9 @@
 * 事故対策
     - リクガメの彼岸花対策
 * 使ってる飼育器具
-    - ダイソー:クッキングパッド:3個 12.3x16.9cm A006 調理用パッド Food PrepTray No.5 KB-18-6
+    - ダイソー:クッキングパッド
+        - 12.3x16.9cm A006 調理用パッド Food PrepTray No.5 KB-18-6 3個1セット
+        - 15x21.5cm A006 調理用パッド Food PrepTray No.2 KB-18-6
     - [噴霧器 ガーデンマスター GT-2S](https://amzn.to/3tpULg8)
     - [ロックス](https://amzn.to/3jhGQDS)
     - [ワインセラー](https://amzn.to/39IxC0v)
