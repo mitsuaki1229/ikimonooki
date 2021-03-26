@@ -27,11 +27,11 @@
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * モロッコイシガメ(Mauremys leprosa ssp.)
 * スペインイシガメ(Mauremys leprosa leprosa)
-* ミシシッピアカミミガメ(ミドリガメ)
+* ミシシッピアカミミガメ(ミドリガメ)(Trachemys scripta elegans)
 * クサガメ(Mauremys reevesii)
 * ニホンイシガメ(Mauremys japonica)
 * セネガルフタスッポン(Cyclanorbis senegalensis)
-* オオヤマガメ
+* オオヤマガメ(Heosemys grandis)
 
 #### トカゲ
 
@@ -59,29 +59,29 @@
 * ヒナタヨロイトカゲ(Cordylus tropidosternum)
 * ゲイリートゲオアガマ(Uromastyx geyri)
 * シュナイダースキンク(Eumeces schneiderii)
-* ニシアフリカトカゲモドキ
-* トッケイヤモリ
-* ブルークスナキヤモリ
+* ニシアフリカトカゲモドキ(Hemitheconyx caudicinctus)
+* トッケイヤモリ(Gekko gecko)
+* ブルークスナキヤモリ(Hemidactylus brookii)
 * ホオグロヤモリ(Hemidactylus frenatus)
 * [クラカケカベヤモリ(Tarentola ephippiata)](creatures/tarentola-ephippiata)
 * オガサワラヤモリ(Lepidodactylus lugubris)
-* ニホンヤモリ
+* ニホンヤモリ(Gekko japonicus)
 * アフリカ産ヤモリ
 
 #### ヘビ
 
 * カリフォルニアキングスネーク(Lampropeltis californiae)
 * [アフリカンハウススネーク(Boaedon fuliginosus)](creatures/boaedon-fuliginosus)
-* サビイロクチバシヘビ
+* サビイロクチバシヘビ(Rhamphiophis oxyrhynchus)
 * [クロスサンカクヘビ(Limaformosa crossi)](creatures/limaformosa-crossi)
-* ヘラルドスネーク
-* アオダイショウ
-* シマヘビ
-* ヒバカリ
-* ブラーミニメクラヘビ
-* ボールパイソン
-* ケニアサンドボア
-* コーンスネーク
+* ヘラルドスネーク(Crotaphopeltis hotamboeia)
+* アオダイショウ(Elaphe climacophora)
+* シマヘビ(Elaphe quadrivirgata)
+* ヒバカリ(Hebius vibakari)
+* ブラーミニメクラヘビ(Ramphotyphlops braminus)
+* ボールパイソン(Python regius)
+* ケニアサンドボア(Eryx colubrinus)
+* コーンスネーク(Pantherophis guttatus)
 * サキシママダラ(Dinodon rufozonatum walli)
 
 ### 両生類
@@ -89,13 +89,13 @@
 * サンショウウオSP
 * [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus)
 * トウホクサンショウウオ
-* トウキョウサンショウウオ
-* イシヅチサンショウウオ
-* クロサンショウウオ
-* アマガエル
-* モリアオガエル
-* アフリカウシガエル
-* アジアウキガエル
+* トウキョウサンショウウオ(Hynobius tokyoensis)
+* イシヅチサンショウウオ(Hynobius hirosei)
+* クロサンショウウオ(Hynobius nigrescens)
+* アマガエル(Dryophytes japonica)
+* モリアオガエル(Rhacophorus arboreus)
+* アフリカウシガエル(Pyxicephalus adspersus)
+* アジアウキガエル(Occidozyga lima)
 * ヤマアカガエル
 * イモリ
 * ヒキガエル
@@ -129,8 +129,8 @@
 * ホソワラジムシ
 * キルギスオオワラジムシ
 * ダンゴムシ
-* オカヤドカリ
-* ミステリークレイフィッシュ
+* オカヤドカリ(Coenobita cavipes)
+* ミステリークレイフィッシュ(Procambarus fallax forma virginalis)
 * アメリカザリガニ
 * サワガニ
 * モクズガニ
@@ -145,7 +145,7 @@
 
 ### 鳥類
 
-* 九官鳥
+* 九官鳥(Gracula religiosa)
 * 鶉
 
 ### 貝
