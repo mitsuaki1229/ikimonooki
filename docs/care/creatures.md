@@ -89,7 +89,7 @@
 * サンショウウオSP
 * [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus)
 * トウホクサンショウウオ
-* トウキョウサンショウウオ(Hynobius tokyoensis)
+* [トウキョウサンショウウオ(Hynobius tokyoensis)](creatures/hynobius-tokyoensis)
 * イシヅチサンショウウオ(Hynobius hirosei)
 * クロサンショウウオ(Hynobius nigrescens)
 * アマガエル(Dryophytes japonica)
