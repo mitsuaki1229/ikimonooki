@@ -14,7 +14,7 @@
 * リビア地中海リクガメ
 * ソマリアリクガメ
 * パンケーキリクガメ(Malacochersus tornieri)
-* ニシベルセオレガメ(Kinixys belliana)
+* [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys-belliana)
 * [ホームセオレガメ(Kinixys homeana)](creatures/kinixys-homeana)
 * [モリセオレガメ](creatures/kinixys-erosa)
 * スペングラーヤマガメ(Geoemyda spengleri)
