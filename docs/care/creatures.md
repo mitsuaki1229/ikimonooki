@@ -72,7 +72,7 @@
 * カリフォルニアキングスネーク(Lampropeltis californiae)
 * アフリカンハウススネーク
 * サビイロクチバシヘビ
-* クロスサンカクヘビ(Mehelya crossi)
+* [クロスサンカクヘビ(Limaformosa crossi)](creatures/limaformosa-crossi)
 * ヘラルドスネーク
 * アオダイショウ
 * シマヘビ
@@ -86,7 +86,7 @@
 ### 両生類
 
 * サンショウウオSP
-* カスミサンショウウオ
+* [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus)
 * トウホクサンショウウオ
 * トウキョウサンショウウオ
 * イシヅチサンショウウオ
