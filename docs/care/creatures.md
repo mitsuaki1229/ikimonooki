@@ -62,7 +62,7 @@
 * トッケイヤモリ
 * ブルークスナキヤモリ
 * ホオグロヤモリ(Hemidactylus frenatus)
-* クラカケカベヤモリ(Tarentola ephippiata)
+* [クラカケカベヤモリ(Tarentola ephippiata)](creatures/tarentola-ephippiata)
 * オガサワラヤモリ(Lepidodactylus lugubris)
 * ニホンヤモリ
 * アフリカ産ヤモリ
