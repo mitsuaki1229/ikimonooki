@@ -70,7 +70,7 @@
 #### ヘビ
 
 * カリフォルニアキングスネーク(Lampropeltis californiae)
-* アフリカンハウススネーク
+* [アフリカンハウススネーク(Boaedon fuliginosus)](creatures/boaedon-fuliginosus)
 * サビイロクチバシヘビ
 * [クロスサンカクヘビ(Limaformosa crossi)](creatures/limaformosa-crossi)
 * ヘラルドスネーク
