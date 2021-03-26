@@ -31,6 +31,7 @@
 * クサガメ(Mauremys reevesii)
 * ニホンイシガメ(Mauremys japonica)
 * セネガルフタスッポン(Cyclanorbis senegalensis)
+* オオヤマガメ
 
 #### トカゲ
 
@@ -57,7 +58,7 @@
 * サバクツノトカゲ(Phrynosoma platyrhinos)
 * ヒナタヨロイトカゲ(Cordylus tropidosternum)
 * ゲイリートゲオアガマ(Uromastyx geyri)
-* シュナイダースキンク
+* シュナイダースキンク(Eumeces schneiderii)
 * ニシアフリカトカゲモドキ
 * トッケイヤモリ
 * ブルークスナキヤモリ
@@ -108,7 +109,7 @@
 * マダガスカルコックローチ
 * デュビア
 * [レッドローチ(Shelfordella lateralis)](creatures/shelfordella-lateralis.md)
-* ヨーロッパイエコオロギ
+* ヨーロッパイエコオロギ(Acheta domesticus)
 * フタホシコオロギ
 * ジャイアントミルワーム
 * ミルワーム
