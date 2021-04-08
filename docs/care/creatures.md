@@ -96,29 +96,29 @@
 * モリアオガエル(Rhacophorus arboreus)
 * アフリカウシガエル(Pyxicephalus adspersus)
 * アジアウキガエル(Occidozyga lima)
-* ヤマアカガエル
-* イモリ
-* ヒキガエル
-* オオクサガエル
+* ヤマアカガエル(Rana ornativentris)
+* アカハライモリ(Cynops pyrrhogaster)
+* ニホンヒキガエル(Bufo japonicus)
+* ムシクイオオクサガエル(Leptopelis vermiculatus)
 * クサガエルSP
 
 ### 昆虫
 
-* ポーセリンローチ
-* シャイニーバロースコーピオン
-* マダガスカルコックローチ
-* デュビア
+* ポーセリンローチ(Gyna caffrorum)
+* シャイニーバロースコーピオン(Opistophthalmus glabrifrons)
+* マダガスカルコックローチ(Gromphadorhina portentosa)
+* デュビア(Blaptica dubia)
 * [レッドローチ(Shelfordella lateralis)](creatures/shelfordella-lateralis.md)
 * ヨーロッパイエコオロギ(Acheta domesticus)
-* フタホシコオロギ
+* フタホシコオロギ(Gryllus bimaculatus)
 * ジャイアントミルワーム
 * ミルワーム
 * ハニーワーム
 * 蚕
 * グレーター・ホーンド・バブーン
 * サウスアフリカ・ホーンド・バブーン
-* ウザンバラオレンジバブーン
-* チブサトゲグモ
+* ウザンバラオレンジバブーン(Pterinochilus murinus)
+* チブサトゲグモ(Thelacantha brevispina)
 * タイコウチ
 * ハイイロゲンゴロウ
 * アマミサソリモドキ
