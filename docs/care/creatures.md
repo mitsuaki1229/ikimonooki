@@ -153,7 +153,7 @@
 * [オオギセルガイ(Megalophaedusa martensi)](creatures/megalophaedusa-martensi.md)
 * [ミカドギセルガイ(Tyrannophaedusa mikado)](creatures/tyrannophaedusa-mikado.md)
 * [ツムガタギセルガイ(Hemiphaedusa pinguis)](creatures/hemiphaedusa-pinguis.md)
-* カタツムリSP
+* カタツムリSP(和歌山)
 * ヤンバルマイマイ
 * ヘソアキコベソマイマイ
 * オキマイマイ
