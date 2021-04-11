@@ -26,7 +26,7 @@
 * [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * モロッコイシガメ(Mauremys leprosa ssp.)
-* スペインイシガメ(Mauremys leprosa leprosa)
+* [モロッコスペインイシガメ(Mauremys leprosa leprosa)](mauremys-leprosa-leprosa.md)
 * ミシシッピアカミミガメ(ミドリガメ)(Trachemys scripta elegans)
 * クサガメ(Mauremys reevesii)
 * ニホンイシガメ(Mauremys japonica)
