@@ -14,16 +14,16 @@
 * リビア地中海リクガメ
 * ソマリアリクガメ
 * パンケーキリクガメ(Malacochersus tornieri)
-* [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys-belliana)
-* [ホームセオレガメ(Kinixys homeana)](creatures/kinixys-homeana)
-* [モリセオレガメ](creatures/kinixys-erosa)
+* [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys-belliana.md)
+* [ホームセオレガメ(Kinixys homeana)](creatures/kinixys-homeana.md)
+* [モリセオレガメ](creatures/kinixys-erosa.md)
 * スペングラーヤマガメ(Geoemyda spengleri)
 * ミシシッピニオイガメ(Sternotherus odoratus)
 * ヌマヨコクビガメ(Pelomedusa subrufa)
     - 冬場、産地にもよると思うが、半冬眠状態で飼育出来ていた。
 * クリイロハコヨコクビガメ(Pelusios castaneus)
 * オカバンゴハコヨコクビガメ(Pelusios bechuanicus)
-* [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica)
+* [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * モロッコイシガメ(Mauremys leprosa ssp.)
 * スペインイシガメ(Mauremys leprosa leprosa)
@@ -63,7 +63,7 @@
 * トッケイヤモリ(Gekko gecko)
 * ブルークスナキヤモリ(Hemidactylus brookii)
 * ホオグロヤモリ(Hemidactylus frenatus)
-* [クラカケカベヤモリ(Tarentola ephippiata)](creatures/tarentola-ephippiata)
+* [クラカケカベヤモリ(Tarentola ephippiata)](creatures/tarentola-ephippiata.md)
 * オガサワラヤモリ(Lepidodactylus lugubris)
 * ニホンヤモリ(Gekko japonicus)
 * アフリカ産ヤモリ
@@ -71,9 +71,9 @@
 #### ヘビ
 
 * カリフォルニアキングスネーク(Lampropeltis californiae)
-* [アフリカンハウススネーク(Boaedon fuliginosus)](creatures/boaedon-fuliginosus)
+* [アフリカンハウススネーク(Boaedon fuliginosus)](creatures/boaedon-fuliginosus.md)
 * サビイロクチバシヘビ(Rhamphiophis oxyrhynchus)
-* [クロスサンカクヘビ(Limaformosa crossi)](creatures/limaformosa-crossi)
+* [クロスサンカクヘビ(Limaformosa crossi)](creatures/limaformosa-crossi.md)
 * ヘラルドスネーク(Crotaphopeltis hotamboeia)
 * アオダイショウ(Elaphe climacophora)
 * シマヘビ(Elaphe quadrivirgata)
@@ -87,9 +87,9 @@
 ### 両生類
 
 * サンショウウオSP
-* [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus)
+* [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus.md)
 * トウホクサンショウウオ
-* [トウキョウサンショウウオ(Hynobius tokyoensis)](creatures/hynobius-tokyoensis)
+* [トウキョウサンショウウオ(Hynobius tokyoensis)](creatures/hynobius-tokyoensis.md)
 * イシヅチサンショウウオ(Hynobius hirosei)
 * クロサンショウウオ(Hynobius nigrescens)
 * アマガエル(Dryophytes japonica)
@@ -150,9 +150,9 @@
 
 ### 貝
 
-* オオギセルガイ
-* ミカドギセルガイ
-* ツムガタギセルガイ
+* [オオギセルガイ(Megalophaedusa martensi)](creatures/megalophaedusa-martensi.md)
+* [ミカドギセルガイ(Tyrannophaedusa mikado)](creatures/tyrannophaedusa-mikado.md)
+* [ツムガタギセルガイ(Hemiphaedusa pinguis)](creatures/hemiphaedusa-pinguis.md)
 * カタツムリSP
 * ヤンバルマイマイ
 * ヘソアキコベソマイマイ
