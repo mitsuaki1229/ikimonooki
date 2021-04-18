@@ -28,7 +28,7 @@ permalink: /help/
 | ------- | ------- |
 | 販売主 | ikimonooki |
 | 販売・動物取扱責任者 | [Mitsuaki Ihara](https://about.me/mitsuaki1229) |
-| 所在地 | 神奈川県茅ヶ崎市(来訪予約制) |
+| 所在地 | 神奈川県茅ヶ崎市([来訪予約制](/help/about-reservation-to-come-to-ikimonooki)) |
 | 連絡先 | [Twitter@ikimonooki](https://twitter.com/ikimonooki)<br><a href="tel:050-5435-6406">050-5435-6406</a><br>[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSciDNlaG6wREvk-JSGTqiDJhya-Tsjt9Lu2RXWX-ah64RjwEA/viewform) |
 | 商品代金以外の必要金額 | 送料<br>お振込み手数料お客様ご負担 |
 | お申込み有効期限 | ご注文日を含めて14日間 |
