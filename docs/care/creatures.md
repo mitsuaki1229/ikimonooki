@@ -10,18 +10,18 @@
 
 #### カメ
 
-* チェニジア地中海リクガメ
+* チェニジア地中海リクガメ(Testudo graeca nabeulensis)
 * リビア地中海リクガメ
 * ソマリアリクガメ
 * パンケーキリクガメ(Malacochersus tornieri)
 * [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys-belliana.md)
 * [ホームセオレガメ(Kinixys homeana)](creatures/kinixys-homeana.md)
-* [モリセオレガメ](creatures/kinixys-erosa.md)
+* [モリセオレガメ(Kinixys erosa)](creatures/kinixys-erosa.md)
 * スペングラーヤマガメ(Geoemyda spengleri)
 * ミシシッピニオイガメ(Sternotherus odoratus)
 * ヌマヨコクビガメ(Pelomedusa subrufa)
     - 冬場、産地にもよると思うが、半冬眠状態で飼育出来ていた。
-* クリイロハコヨコクビガメ(Pelusios castaneus)
+* [クリイロハコヨコクビガメ(Pelusios castaneus)](creatures/pelusios-castaneus.md)
 * オカバンゴハコヨコクビガメ(Pelusios bechuanicus)
 * [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)
 * モロッコイシガメ(Mauremys leprosa marokkensis)

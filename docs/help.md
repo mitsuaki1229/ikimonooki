@@ -7,10 +7,12 @@ permalink: /help/
 ## 購入方法
 
 * 基本的に[Twitter@ikimonooki](https://twitter.com/ikimonooki)経由でのご連絡を推奨しております。
+* 第一種動物取扱業をお持ちの方には、登録番号をお知らせくだされば発送も可能です。
 
 ## 買取方法
 
-* 募集している種類に関して相場+αで買取しています。募集は[Twitter@ikimonooki](https://twitter.com/ikimonooki)で告知します。
+* [募集](/shopping/purchase-price-list)している種類に関して相場+αで買取しています。
+* 上記以外に関してもご相談頂ければできる範囲で考えます。
 
 ## 貸出し方法
 
@@ -22,13 +24,11 @@ permalink: /help/
 
 ## 特定商取引法に基づく表記
 
-
-
 |||
 | ------- | ------- |
 | 販売主 | ikimonooki |
 | 販売・動物取扱責任者 | [Mitsuaki Ihara](https://about.me/mitsuaki1229) |
-| 所在地 | 神奈川県 |
+| 所在地 | 神奈川県茅ヶ崎市(来訪予約制) |
 | 連絡先 | [Twitter@ikimonooki](https://twitter.com/ikimonooki)<br><a href="tel:050-5435-6406">050-5435-6406</a><br>[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSciDNlaG6wREvk-JSGTqiDJhya-Tsjt9Lu2RXWX-ah64RjwEA/viewform) |
 | 商品代金以外の必要金額 | 送料<br>お振込み手数料お客様ご負担 |
 | お申込み有効期限 | ご注文日を含めて14日間 |
