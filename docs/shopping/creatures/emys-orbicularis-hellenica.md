@@ -19,8 +19,15 @@
 
 ## 生体記録
 
-* 2019年6月23日にPEEKABOOさんで購入。
+* 2019年6月23日にPEEKABOOさんで購入。 CB。
 
 ## その他
 
 [買取募集している生体](/shopping/purchase-price-list)を出していただける場合、その分値下げや交換・差額分お支払いする事も可能です。
+
+## 画像
+
+* [emys-orbicularis-hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/back.jpeg)
+* [emys-orbicularis-hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/face.jpeg)
+* [emys-orbicularis-hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/front.jpeg)
+* [emys-orbicularis-hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/size.jpeg)
