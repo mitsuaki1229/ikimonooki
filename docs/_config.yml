@@ -16,8 +16,8 @@
 title: ikimonooki
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  繁殖した爬虫類や植物、輸入した品などの販売をしてます。
-  爬虫類の購入相談大歓迎！Twitter経由で簡単に質問・購入できます。
+  このサイトでは、今まで飼育していた際の飼育情報の記載や、
+  繁殖した生体・放出個体・増やした植物・不要になった飼育用品の販売をしています。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ikimonooki.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:

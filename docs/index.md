@@ -10,9 +10,6 @@ canonical_url: https://ikimonooki.com/
 
 ikimonooki(いきものおき)にようこそ。  
 このサイトでは、エキゾチックアニマルの飼育に役立つ情報や、  
-繁殖した生体・放出個体・増やした植物・グッズなどの販売をしています。
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a class="twitter-timeline" data-width="100%" data-height="500" href="https://twitter.com/ikimonooki?ref_src=twsrc%5Etfw">Tweets by ikimonooki</a>
+繁殖した生体・放出個体・増やした植物・不要になった飼育用品の販売をしています。
 
 ### Info
