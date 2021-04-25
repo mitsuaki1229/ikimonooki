@@ -8,6 +8,8 @@
 
 ### 育成中
 
+* Aloe somaliensis
+    - USDA Hardiness Zones 12
 * Aloe vera
     - アロエベラ
     - 霜に当たると枯れるとのこと、一部屋外で管理を試している。
