@@ -6,10 +6,11 @@
 | 学名 | Emys orbicularis hellenica |
 | 通称名 | バルカンヌマガメ |
 
-飼育種を陸生のカメメインに絞るので放出します。  
+繁殖を視野に飼育していましたが、  
+オスを冬眠に失敗して死なせてしまったのと、  
+飼育種を陸生のカメメインに絞る事にしたので放出したいと思います。  
+CBのメスで、ある程度育っています。
 2万円(税込)でお願いします。  
-
-この前死んでしまったオスと比較する限り、メスで間違いないと思います。  
 
 バルカンヌマガメの相場は見かけませんが、  
 このくらいのサイズの同一学名、アドリアヌマガメだと4万くらいするので、  
@@ -19,7 +20,7 @@
 
 ## 生体記録
 
-* 2019年6月23日にPEEKABOOさんで購入。 CB。
+* 2019年6月23日に購入。 
 
 ## その他
 
@@ -27,7 +28,7 @@
 
 ## 画像
 
-* [emys-orbicularis-hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/back.jpeg)
-* [emys-orbicularis-hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/face.jpeg)
-* [emys-orbicularis-hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/front.jpeg)
-* [emys-orbicularis-hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/size.jpeg)
+* [Emys orbicularis hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/back.jpeg)
+* [Emys orbicularis hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/face.jpeg)
+* [Emys orbicularis hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/front.jpeg)
+* [Emys orbicularis hellenica]({{site.baseurl}}/assets/img/shopping/creatures/emys-orbicularis-hellenica/1/size.jpeg)
