@@ -7,7 +7,5 @@
 
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * ニシベルセオレガメ(Kinixys belliana)
-* ホームセオレガメ(Kinixys homeana)
-* モリセオレガメ(Kinixys erosa) メス
 * パンケーキリクガメ(Malacochersus tornieri)
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
