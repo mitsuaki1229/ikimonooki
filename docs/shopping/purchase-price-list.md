@@ -6,6 +6,5 @@
 また、飼育スロットが埋まっている場合や資金が不足している場合はお断りする事もありますのでご了承ください。
 
 * モロッコイシガメ(Mauremys leprosa marokkensis)
-* ニシベルセオレガメ(Kinixys belliana)
 * パンケーキリクガメ(Malacochersus tornieri)
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
