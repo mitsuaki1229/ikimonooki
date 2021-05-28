@@ -185,6 +185,15 @@
     - ダイソーで購入、マイナスの気温の時に外に出してたら葉っぱが枯れてた。ので。2021/01/11に取り込んだが、そのまま枯れた。2021/02/07
 * ???
     - ダイソーで購入した植物、マイナスの気温の時に外に出してたら葉っぱが枯れてた。ので。2021/01/11に取り込んだが、そのまま枯れた。2021/02/07
+* Moringa ovalifolia
+    - ゴーストツリー
+* Phytolacca dioica
+    - オンブー
+* Plantago major "Purpurea"
+* Plantago major "Purple Perversion"
+* Plantago major "Variegata"
+* Schotia brachypetala
+    - アフリカングリーンハート
 
 ### 過去育成履歴
 

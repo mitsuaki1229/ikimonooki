@@ -34,6 +34,7 @@
     - アクアリウムバス
 * サイテス関連。
     - パンケーキリクガメ
+        - 移動申請
 * 動物取扱業関連。
     - 動物取扱業の記録送付爬虫類飼育　届け出
 * 資格関連。
@@ -59,7 +60,10 @@
     - [みどり商会 暖突 M サイズ](https://amzn.to/3cV3H5u)
     - [みどり商会 暖突 57W L サイズ](https://amzn.to/3tCgYGU)
 * 外来生物法に伴う特定外来生物の飼養等許可申請
-    - ミステリークレイフィッシュ
+    - [ミステリークレイフィッシュ](https://www.env.go.jp/nature/intro/2outline/attention/gairaizarigani.html)
+        - [飼養等に関する手続き](https://www.env.go.jp/nature/intro/1law/shiyou/tetsuduki.html)
+        - [申請書（外来ザリガニ類４科）本体の記載例 [PDF 381KB]](https://www.env.go.jp/nature/intro/1law/shiyou/files/1-A_zarigani_sample.pdf)
+関東地方事務所に送付する
 * 電車
     - 蛇を電車内に持ち込むと、1匹あたり7,000円の罰金を取られたという話を聞いた。
 * 電気
