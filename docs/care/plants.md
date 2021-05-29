@@ -192,6 +192,10 @@
 * Plantago major "Purpurea"
 * Plantago major "Purple Perversion"
 * Plantago major "Variegata"
+* Plantago major
+    - オニオオバコ
+* Plantago nivalis
+    - 夏の暑さには弱いらしい。
 * Schotia brachypetala
     - アフリカングリーンハート
 
