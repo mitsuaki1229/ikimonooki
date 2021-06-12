@@ -8,6 +8,6 @@
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * パンケーキリクガメ(Malacochersus tornieri) メス
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
-* スペングラーヤマガメ(Geoemyda spengleri) オス
+* スペングラーヤマガメ(Geoemyda spengleri) ベトナム オス
 
 また、タイミング的に飼育スロットが埋まっている場合は、お断りする事もありますのでご了承ください。
