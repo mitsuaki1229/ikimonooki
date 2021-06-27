@@ -6,7 +6,6 @@
 相場前後〜で買い取りますのでご相談&価格交渉ください。
 
 * モロッコイシガメ(Mauremys leprosa marokkensis)
-* パンケーキリクガメ(Malacochersus tornieri) メス
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
 * スペングラーヤマガメ(Geoemyda spengleri) ベトナム オス
 
