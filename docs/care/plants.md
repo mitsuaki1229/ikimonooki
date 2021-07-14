@@ -92,6 +92,15 @@
     - 産地:Eastern Cape Province of South Africa(South Africa)
     - 寒さに強いらしい通年屋外管理を試してみるか悩んでいるが、試す勇気がない。
     - USDA Hardiness Zones 9b - 11
+* Pachypodium succulentum
+    - パキポディウム・サキュレンタム
+    - USDA Hardiness Zones 9b - 11b
+* Pachypodium lealii
+    - パキポディウム・レアリー
+    - USDA hardiness zones 10a - 11b
+* Pachypodium saundersii
+    - パキポディウム・サウンデルシー
+    - USDA hardiness zones 10a - 11
 * Hydrocotyle verticillata
     - ウォーターマッシュルーム,ウチワゼニクサ,ウォーターコイン
     - 耐寒性:屋外で放置しているが、毎年生えてはいる様子。
