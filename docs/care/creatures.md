@@ -32,6 +32,7 @@
 * ニホンイシガメ(Mauremys japonica)
 * セネガルフタスッポン(Cyclanorbis senegalensis)
 * オオヤマガメ(Heosemys grandis)
+* ガルフコーストハコガメ(Terrapene carolina major)
 
 #### トカゲ
 
@@ -67,6 +68,7 @@
 * オガサワラヤモリ(Lepidodactylus lugubris)
 * ニホンヤモリ(Gekko japonicus)
 * アフリカ産ヤモリ
+* ヘラオヤモリ(Uroplatus sp.)
 
 #### ヘビ
 
@@ -88,7 +90,7 @@
 
 * サンショウウオSP
 * [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus.md)
-* トウホクサンショウウオ
+* トウホクサンショウウオ(Hynobius lichenatus)
 * [トウキョウサンショウウオ(Hynobius tokyoensis)](creatures/hynobius-tokyoensis.md)
 * イシヅチサンショウウオ(Hynobius hirosei)
 * クロサンショウウオ(Hynobius nigrescens)
@@ -131,10 +133,11 @@
 * ダンゴムシ
 * オカヤドカリ(Coenobita cavipes)
 * ミステリークレイフィッシュ(Procambarus fallax forma virginalis)
-* アメリカザリガニ
+* アメリカザリガニ(Procambarus clarkii)
 * サワガニ
 * モクズガニ
 * レッドビーシュリンプ
+* ヤシガニ(Birgus latro)
 
 ### 哺乳類
 

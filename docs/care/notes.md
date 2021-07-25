@@ -62,6 +62,7 @@
         - 裏にダイソーのコードフック 8個 粘着テープ式 電気小物・コードE1 No.7を逆向きに貼り付けて、メタルラックに引っ掛けて利用している。
     - [みどり商会 クリップスタンド ひまわり](https://amzn.to/3vHGA77)
     - [みどり商会 暖突 M サイズ](https://amzn.to/3cV3H5u)
+        - 暖突をメタルラックにフックで引っ掛ける際に利用しているバーベキュー網:ダイソー 焼き網<角型> 27cmx27cm
     - [みどり商会 暖突 57W L サイズ](https://amzn.to/3tCgYGU)
 * 外来生物法に伴う特定外来生物の飼養等許可申請
     - [ミステリークレイフィッシュ](https://www.env.go.jp/nature/intro/2outline/attention/gairaizarigani.html)
