@@ -33,6 +33,7 @@
 * セネガルフタスッポン(Cyclanorbis senegalensis)
 * オオヤマガメ(Heosemys grandis)
 * ガルフコーストハコガメ(Terrapene carolina major)
+* モエギハコガメ(Cuora galbinifrons)
 
 #### トカゲ
 
