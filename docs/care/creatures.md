@@ -11,8 +11,8 @@
 #### カメ
 
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
-* リビア地中海リクガメ
-* ソマリアリクガメ
+* リビア地中海リクガメ(Testudo graeca nabeulensis)
+* ソマリアリクガメ(Stigmochelys pardalis babcocki)
 * パンケーキリクガメ(Malacochersus tornieri)
 * [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys-belliana.md)
 * [ホームセオレガメ(Kinixys homeana)](creatures/kinixys-homeana.md)
@@ -118,8 +118,8 @@
 * ミルワーム
 * ハニーワーム
 * 蚕
-* グレーター・ホーンド・バブーン
-* サウスアフリカ・ホーンド・バブーン
+* グレーター・ホーンド・バブーン(Ceratogyrus brachycephalus)
+* サウスアフリカ・ホーンド・バブーン(Ceratogyrus darlingi)
 * ウザンバラオレンジバブーン(Pterinochilus murinus)
 * チブサトゲグモ(Thelacantha brevispina)
 * タイコウチ
@@ -135,9 +135,9 @@
 * オカヤドカリ(Coenobita cavipes)
 * ミステリークレイフィッシュ(Procambarus fallax forma virginalis)
 * アメリカザリガニ(Procambarus clarkii)
-* サワガニ
-* モクズガニ
-* レッドビーシュリンプ
+* サワガニ(Geothelphusa dehaani)
+* モクズガニ(Eriocheir japonica)
+* レッドビーシュリンプ(Neocaridina sp.)
 * ヤシガニ(Birgus latro)
 
 ### 哺乳類
