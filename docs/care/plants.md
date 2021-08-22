@@ -26,6 +26,8 @@
     - 砂漠のバラ
     - 耐寒性:休眠中も日光に当てた方が良い。
     - USDA Hardiness Zones 10a - 12
+* Adenium somalense
+* Bergeranthus multiceps (Salm-Dyck) Schwantes
 * Brachychiton rupestris
     - ボトルツリー
     - 日本だと5度くらいまでという記録が主流。室内無加温で管理中。
@@ -181,6 +183,8 @@
     - サンスベリア・ピングイキュラ
     - USDA Hardiness Zones possibly 8b - 11
     - 2021/01/23 霜が出た日に枯れてきてるように見えるので、8bだとしても日本の環境だと厳しそう。
+* Tillandsia utriculata ssp. pringlei
+    - 軒下屋外で越冬出来ている。
 * Philodendron imbe 'Silver Metal'
     - フィロデンドロン シルバーメタル
     - 耐寒性:最低温度が1~4度くらいの時期に、外の風が吹く場所に置いていたら、若い葉が溶けるように枯れ始めた。成長した葉っぱは大丈夫そうだが取り込み。 2020/12/20 12:27
