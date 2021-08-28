@@ -27,7 +27,9 @@
     - 耐寒性:休眠中も日光に当てた方が良い。
     - USDA Hardiness Zones 10a - 12
 * Adenium somalense
+    - USDA Hardiness Zones 10a - 11b
 * Bergeranthus multiceps (Salm-Dyck) Schwantes
+    - USDA Hardiness Zones 8b - 10b
 * Brachychiton rupestris
     - ボトルツリー
     - 日本だと5度くらいまでという記録が主流。室内無加温で管理中。
