@@ -7,6 +7,7 @@ permalink: /shopping/
 販売ページです。
 
 * [クロスサンカクヘビ(Limaformosa crossi)](/shopping/creatures/limaformosa-crossi)
+* [アオダイショウ(Elaphe climacophora)](/shopping/creatures/elaphe_climacophora)
 * ~~[クラカケカベヤモリ(Tarentola ephippiata)](/shopping/creatures/tarentola-ephippiata)~~
 * ~~[バルカンヌマガメ(Emys orbicularis hellenica)](/shopping/creatures/emys-orbicularis-hellenica)~~
 
