@@ -9,8 +9,6 @@ permalink: /shopping/
 * [クロスサンカクヘビ(Limaformosa crossi)](/shopping/creatures/limaformosa-crossi)
 * [アオダイショウ(Elaphe climacophora)](/shopping/creatures/elaphe-climacophora)
 * [ガルフコーストハコガメ(Terrapene carolina major)](/shopping/creatures/terrapene-carolina-major)
-* ~~[クラカケカベヤモリ(Tarentola ephippiata)](/shopping/creatures/tarentola-ephippiata)~~
-* ~~[バルカンヌマガメ(Emys orbicularis hellenica)](/shopping/creatures/emys-orbicularis-hellenica)~~
 
 <!-- * [Books](/shopping/books)
 * [Goods](/shopping/goods)
