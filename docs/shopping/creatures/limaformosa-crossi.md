@@ -41,6 +41,8 @@
 
 ### 2
 
+2021/09/18~ 商談中。 
+
 * [Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/1.jpeg)
 * [Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/2.jpeg)
 * [Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/3.jpeg)
