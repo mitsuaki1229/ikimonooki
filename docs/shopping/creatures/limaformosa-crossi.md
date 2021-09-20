@@ -13,7 +13,7 @@
 繁殖を視野に飼育していましたが、  
 飼育種を陸生のカメメインに絞る事にしたので放出します。  
 
-冷凍マウスも食べますが、大きい方のメスは活マウスの方が食いが良いです。 
+冷凍マウスも食べますが、1番の子は活マウスの方が食いが良いです。 
 また、冬期は休眠に入るのか食べないことが多いです。 
 
 しばらく様子を見て売れそうになかったら、どこかに引き取って貰おうと思います。  
@@ -41,11 +41,11 @@
 
 ### 2
 
-2021/09/18~ 商談中。 
+販売終了
 
-* [Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/1.jpeg)
-* [Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/2.jpeg)
-* [Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/3.jpeg)
+* ~~[Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/1.jpeg)~~
+* ~~[Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/2.jpeg)~~
+* ~~[Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/2/3.jpeg)~~
 
 ### 3
 
