@@ -7,8 +7,6 @@ permalink: /shopping/
 販売ページです。
 
 * [クロスサンカクヘビ(Limaformosa crossi)](/shopping/creatures/limaformosa-crossi)
-* [アオダイショウ(Elaphe climacophora)](/shopping/creatures/elaphe-climacophora)
-* [ガルフコーストハコガメ(Terrapene carolina major)](/shopping/creatures/terrapene-carolina-major)
 
 <!-- * [Books](/shopping/books)
 * [Goods](/shopping/goods)
