@@ -16,6 +16,7 @@
 * 値下げ交渉について。
 * 取り置きについて。
 * 通販について。
+* 生き物の発送について。
 * 店舗を開く場合。
     - 太陽光により暖房効率が変わってくるため、店を開く時は南向きと北向きを考慮する。
 * 郵送について。
@@ -25,15 +26,24 @@
     - 爬虫類・両生類SNS
         - 2008年頃に参加していた記憶がある。いつの間にか廃止されていた様子。
 * 爬虫類イベント。
-    - ジャパンレプタイルズショー
-    - HBM
-    - ジャングルハンター
-    - ぶりくら
-    - エキゾチックレプタイルエキスポ
-    - ブラックアウト
-    - ビッグボルケーノ
-    - ワールドアニマルレボリューション
-    - アクアリウムバス
+    - [ジャパンレプタイルズショー](https://www.rep-japan.co.jp/jrs/)
+    - [東京レプタイルズワールド](https://tokyo.reptilesworld.jp/)
+    - [広島レプタイルズワールド](https://hiroshima.reptilesworld.jp/)
+    - [神戸レプタイルズワールド](http://kobe.reptilesworld.jp/)
+    - [九州爬虫類フェス](https://q-reptile.com/)
+    - [レプタイルズフィーバー](https://www.tv-osaka.co.jp/event/reptiles2021/)
+    - [爬虫類市場](http://hatyuichi.com/)
+    - [HBM](http://hbm.c.ooco.jp/)
+    - [SBS(四国ブリーダーズストリート)](https://4breedersstreet.jp/)
+    - [ジャングルハンター](https://nagatukasa.wixsite.com/junglehunter)
+    - [ぶりくら・とんぶり](https://burikura.com/)
+    - [EXOTIC REPTILE EXPO(エキゾチックレプタイルエキスポ)](https://reptilexpo-jp.com/)
+    - [BLACK OUT !(ブラックアウト)](https://www.blackout1999.com/)
+    - [九州レプタイルフェスタ](https://q-rep.net/)
+    - [BIG VOLCANO(ビッグボルケーノ)](http://www.bigvolcano.info/kaisaiinfo.htm)
+    - [World Animal Revolution2007(ワールドアニマルレボリューション)](http://www.vampire-kashiwa.com/ivent/war/war.htm)
+        - 東京にあったムツゴロウ動物王国でやっていたイベント
+    - [アクアリウムバス](https://aquariumbus.com/)
 * サイテス関連。
     - パンケーキリクガメ
         - [譲受けの届出](http://www.jwrc.or.jp/service/cites/regist/yuzuriuke.htm)
@@ -45,6 +55,9 @@
 * 買取について。
     - 種類にもよるが、ショップに買取を依頼すると、相場の四分の一から三分の一くらいで査定される事が多い。
     - 業登録の必要性について。
+        - [爬虫類の買取についての疑問まとめ](https://note.com/ikimonooki/n/n47e15d1eb703)
+* 交換について
+    - [爬虫類の交換は法律違反？](https://note.com/ikimonooki/n/na006a5d1cdb4)
 * 事故対策
     - リクガメの彼岸花対策
 * 使ってる飼育器具
@@ -69,7 +82,7 @@
     - [ミステリークレイフィッシュ](https://www.env.go.jp/nature/intro/2outline/attention/gairaizarigani.html)
         - [飼養等に関する手続き](https://www.env.go.jp/nature/intro/1law/shiyou/tetsuduki.html)
         - [申請書（外来ザリガニ類４科）本体の記載例 [PDF 381KB]](https://www.env.go.jp/nature/intro/1law/shiyou/files/1-A_zarigani_sample.pdf)
-関東地方事務所に送付する
+            - 関東地方事務所に送付する
 * 電車
     - 蛇を電車内に持ち込むと、1匹あたり7,000円の罰金を取られたという話を聞いた。
 * 電気
