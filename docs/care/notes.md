@@ -31,19 +31,22 @@
     - [広島レプタイルズワールド](https://hiroshima.reptilesworld.jp/)
     - [神戸レプタイルズワールド](http://kobe.reptilesworld.jp/)
     - [九州爬虫類フェス](https://q-reptile.com/)
+    - [九州レプタイルフェスタ](https://q-rep.net/)
     - [レプタイルズフィーバー](https://www.tv-osaka.co.jp/event/reptiles2021/)
     - [爬虫類市場](http://hatyuichi.com/)
-    - [HBM](http://hbm.c.ooco.jp/)
-    - [SBS(四国ブリーダーズストリート)](https://4breedersstreet.jp/)
     - [ジャングルハンター](https://nagatukasa.wixsite.com/junglehunter)
-    - [ぶりくら・とんぶり](https://burikura.com/)
     - [EXOTIC REPTILE EXPO(エキゾチックレプタイルエキスポ)](https://reptilexpo-jp.com/)
     - [BLACK OUT !(ブラックアウト)](https://www.blackout1999.com/)
-    - [九州レプタイルフェスタ](https://q-rep.net/)
+    - [Gecko Market](https://geckomarket.jp/Gecko/)
+    - [HBM](http://hbm.c.ooco.jp/)
+    - [SBS(四国ブリーダーズストリート)](https://4breedersstreet.jp/)
+    - [ぶりくら・とんぶり](https://burikura.com/)
     - [BIG VOLCANO(ビッグボルケーノ)](http://www.bigvolcano.info/kaisaiinfo.htm)
     - [World Animal Revolution2007(ワールドアニマルレボリューション)](http://www.vampire-kashiwa.com/ivent/war/war.htm)
         - 東京にあったムツゴロウ動物王国でやっていたイベント
     - [アクアリウムバス](https://aquariumbus.com/)
+* その他イベント。
+    - [爬虫類のいない生き物即売会 AWAKE](https://twitter.com/awake98411039)
 * サイテス関連。
     - パンケーキリクガメ
         - [譲受けの届出](http://www.jwrc.or.jp/service/cites/regist/yuzuriuke.htm)

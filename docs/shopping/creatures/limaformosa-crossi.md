@@ -8,16 +8,18 @@
 | 通称名 | クロスサンカクヘビ |
 | 価格 | 18,000円(税込) |
 
-※そろそろショップに引き取って貰おうと思ってるので、条件によってはお安くします。ご相談下さい。
+販売終了しました。
 
-繁殖を視野に飼育していましたが、  
-飼育種を陸生のカメメインに絞る事にしたので放出します。  
+~~※そろそろショップに引き取って貰おうと思ってるので、条件によってはお安くします。ご相談下さい。~~
 
-冷凍マウスも食べますが、1番の子は活マウスの方が食いが良いです。 
-また、冬期は休眠に入るのか食べないことが多いです。 
+~~繁殖を視野に飼育していましたが、~~  
+~~飼育種を陸生のカメメインに絞る事にしたので放出します。~~  
 
-しばらく様子を見て売れそうになかったら、どこかに引き取って貰おうと思います。  
-ご注文や問い合わせは[Help](https://ikimonooki.com/help/)に記載された連絡先からお願いします。
+~~冷凍マウスも食べますが、1番の子は活マウスの方が食いが良いです。~~ 
+~~また、冬期は休眠に入るのか食べないことが多いです。~~ 
+
+~~しばらく様子を見て売れそうになかったら、どこかに引き取って貰おうと思います。~~  
+~~ご注文や問い合わせは[Help](https://ikimonooki.com/help/)に記載された連絡先からお願いします。~~
 
 ## 生体記録
 
@@ -36,8 +38,10 @@
 
 ### 1
 
-* [Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/1/1.jpeg)
-* [Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/1/2.jpeg)
+販売終了
+
+* ~~[Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/1/1.jpeg)~~
+* ~~[Limaformosa crossi]({{site.baseurl}}/assets/img/shopping/creatures/limaformosa-crossi/1/2.jpeg)~~
 
 ### 2
 
