@@ -69,6 +69,9 @@
         - 17.8x25.5cm A006 調理用パッド Food PrepTray No.3 KB-18-6
         - 21x29.7cm A006 調理用パッド Food PrepTray No.4 KB-18-6
         - 12.3x16.9cm A006 調理用パッド Food PrepTray No.5 KB-18-6 3個1セット
+    - ダイソー:穀物保管容器
+        - 870mL No.15 KB-21-8
+        - 1.2L No.16 KB-21-8
     - 株式会社キャンドゥ Folding kitchen shelf 388x237mm 折りたたみキッチン整理棚
         - ロックス740Lと組み合わせると、少し斜めにはなるが、シェルターっぽく使える。
     - [噴霧器 ガーデンマスター GT-2S](https://amzn.to/3tpULg8)
@@ -81,6 +84,7 @@
     - [みどり商会 暖突 M サイズ](https://amzn.to/3cV3H5u)
         - 暖突をメタルラックにフックで引っ掛ける際に利用しているバーベキュー網:ダイソー 焼き網<角型> 27cmx27cm
     - [みどり商会 暖突 57W L サイズ](https://amzn.to/3tCgYGU)
+    - イノマタ化学株式会社 品番:5090 マグネットポケット スポイトやノギスをしまうのに使っている。
 * 外来生物法に伴う特定外来生物の飼養等許可申請
     - [ミステリークレイフィッシュ](https://www.env.go.jp/nature/intro/2outline/attention/gairaizarigani.html)
         - [飼養等に関する手続き](https://www.env.go.jp/nature/intro/1law/shiyou/tetsuduki.html)
