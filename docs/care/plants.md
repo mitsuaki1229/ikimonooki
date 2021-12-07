@@ -9,17 +9,19 @@
 ### 育成中
 
 * Aloe somaliensis
-    - USDA Hardiness Zones 12
+    - アロエ ・ ソマリエンシス
+    - 日の当たる軒下で行けているが、取り込んだほうが良いのか謎。 2021/12/07
+    - USDA Hardiness Zones 9b - 11b
 * Aloe vera
     - アロエベラ
-    - 霜に当たると枯れるとのこと、一部屋外で管理を試している。
+    - 霜に当たらなければ冬期屋外管理でも行けるが、葉にはダメージが入る。
     - USDA Hardiness Zones 9 - 11
 * Aloe ramosissima
     - アロエ ラモシシマ
     - USDA Hardiness Zones 9 - 11
 * Aloe lineata
     - アロエ リネアータ
-    - 耐寒性:日本では0度くらいまでの記載有り。
+    - 霜に当たらなければ冬期屋外管理でも行けるが、葉にはダメージが入る。
     - 日が当たりすぎると葉焼けしやすい気がする。
     - USDA Hardiness Zones 9b - 11
 * Adenium obesum
@@ -34,10 +36,6 @@
     - ボトルツリー
     - 日本だと5度くらいまでという記録が主流。室内無加温で管理中。
     - USDA Hardiness Zones 9 - 12
-* Colysis pothifolia
-    - オオイワヒトデ
-    - 耐寒性:？
-    - USDA Hardiness Zones ?
 * Cotyledon orbiculata
     - 耐寒性:、日本だと5~8度以上との記載がある。
     - USDA Hardiness Zones 9b - 12
@@ -71,6 +69,7 @@
     - USDA hardiness zone 9b - 11b
 * Ficus microcarpa
     - ガジュマル
+    - 日の当たる軒下で冬期屋外管理可能だが、株にダメージは入っていそうな雰囲気を感じる。
     - USDA Hardiness Zones 9 - 12
 * Ficus rubiginosa
     - フランスゴムの木
@@ -85,12 +84,13 @@
     - USDA Hardiness Zones 9 - 11
 * Gasteria Flow
     - ガステリアとアロエのハイブリッド
+    - 屋外の軒下で冬期管理出来ているが、株はあまり大きくならない。
     - USDA Hardiness Zones 9b - 11b
 * Ipomoea holubii
     - イポメア・ホルビー
     - 産地:Malawi, Zambia, Zimbabwe, Mozambique, Namibia, Botswana and mainly the Northern Province
     - 耐寒性:あまり強くないとの記載有り
-    - 春先くらいから外にだし11月くらいに室内に取り込んでいる。直射日光に当たる所で管理している。
+    - 春先くらいから外にだし11月終盤くらいに室内に取り込んでいる。直射日光に当たる所で管理している。
 * Pachypodium bispinosum(succulentum?)
     - パキポディウム・ビスピノーサム(サキュレンタムのようにも見える。)
     - 産地:Eastern Cape Province of South Africa(South Africa)
@@ -111,11 +111,14 @@
     - USDA Hardiness Zones 5-11
 * Platycerium
     - ヒガクシダ
+    - 日の当たる軒下で通年屋外管理出来ているが、乾燥させすぎると枯れる。
     - 産地:Southeast Asia, Polynesia, subtropical Australia
     - USDA Hardiness Zones 9 - 12
 * Petopentia natalensis
-    - 耐寒性:度くらいまで持つという記載あり。
+    - 耐寒性:Hardiness Zones9まで持つという記載があるが、実際試してないので不明。
+    - USDA Hardiness Zones 9b-11b
     - 葉っぱをリクガメに全て食われたので、復活するか様子見中。 2020/11/14
+    - 上記は復活した。
 * Schizobasis intricata
     - シゾバシス・イントリカータ
     - 耐寒性:冬場外で行けるとの記載を見かけた。断水気味で5度以上との記載もあり。
@@ -149,7 +152,7 @@
     - USDA Hardiness Zones 9a - 11
 * Euphorbia meloformis
     - 貴青玉
-    - 耐寒性:日本では割と強いらしい。
+    - 耐寒性:日本では割と強いらしい。雨の当たらない軒下で通年管理出来ているが、あまり成長しない。冬場は流石にダメージが入ってるように見える。
     - USDA Hardiness Zones 10a - 11b
 * Kumara plicatilis(Aloe plicatilis)
     - アロエ・プリカティリス,乙女の舞扇
@@ -159,25 +162,13 @@
     - ハナツルソウ,ベビーサンローズ
     - 耐寒性:強い。
     - アイスプラントの仲間、リクガメの餌用に導入。
-* Pachira glabra
-    - パキラ・グラブラ
-    - 耐寒性:日本では耐寒性が低いというので、室内のほうが無難そう。
-    - USDA Hardiness Zones 9b - 11
 * Rhipsalis sp
     - リプサリス,ヤドリギサボテン
     - 耐寒性:日本情報だと5度くらい。
     - USDA Hardiness Zones 9b - 11b
 * Schefflera actinophylla
     - ブラッサイア
-    - 耐寒性:冬の時期によっては心配だから室内に取り込むべきかな。
     - USDA Hardiness Zones 10 - 12
-* Tectaria decurrens
-    - ナナバケシダ
-    - 耐寒性:低
-    - USDA Hardiness Zones ?
-* Neoregelia
-    - ネオレゲリア    
-    - USDA Hardiness Zones possibly 10b - 12
 * Stephanotis floribunda
     - マダガスカルジャスミン
     - USDA Hardiness Zones 10A - 11
@@ -204,19 +195,43 @@
     - ゴーストツリー
 * Phytolacca dioica
     - オンブー
-* Plantago major "Purpurea"
-* Plantago major "Purple Perversion"
-* Plantago major "Variegata"
-* Plantago major
-    - オニオオバコ
-* Plantago nivalis
-    - 夏の暑さには弱いらしい。
-* Schotia brachypetala
-    - アフリカングリーンハート
 
 ### 過去育成履歴
 
-* TODO 記載
+* Colysis pothifolia
+    - オオイワヒトデ
+    - 耐寒性:？
+    - 室内管理していたら枯れた。
+    - USDA Hardiness Zones ?
+* Tectaria decurrens
+    - ナナバケシダ
+    - 耐寒性:低
+    - 室内で葉っぱが弱ってきたので、小型水槽で管理していたが、最終的に根本が腐って枯れた。
+    - USDA Hardiness Zones ?
+* Plantago major "Purpurea"
+    - 夏場の暑さで枯れた。
+* Plantago major "Purple Perversion"
+    - 夏場の暑さで枯れた。
+* Plantago major "Variegata"
+    - 夏場の暑さで枯れた。
+* Plantago major
+    - オニオオバコ
+    - 夏場の暑さで枯れた。
+* Plantago nivalis
+    - 夏の暑さには弱いらしい。
+    - 夏前の暑さで枯れた。
+* Pachira glabra
+    - パキラ・グラブラ
+    - 耐寒性:日本では耐寒性が低いというので、室内のほうが無難そう。
+    - USDA Hardiness Zones 9b - 11
+    - 春になる前に枯れた。上部と思い込んで割と雑に管理していたのがいけなかったか。
+* Schotia brachypetala
+    - アフリカングリーンハート
+    - 株が小さいのもあり、水を上げなさすぎて枯れた。水は多めにあげたほうが良いかも。
+* Neoregelia
+    - ネオレゲリア    
+    - USDA Hardiness Zones possibly 10b - 12
+    - 棚開けのために配った。樹上性トカゲ類の飼育をやめたのでレイアウトにも使わなそうだし。
 
 ## メモ
 
