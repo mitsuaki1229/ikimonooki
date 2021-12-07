@@ -130,7 +130,7 @@
     - USDA Hardiness Zones 12
 * Xerosicyos danguyi
     - グリーンドラム
-    - 耐寒性:寒さに多少弱い。5度以上？0度くらいでも行けるという記載は見たことがあるが。。
+    - 耐寒性:寒さに多少弱い。5度以上？0度くらいでも行けるという記載は見たことがあるが。。軒下屋外でも冬場管理行けたが葉が傷んだ。
     - USDA hardiness zone 9b - 11b
 * Haworthiopsis tessellata(Haworthia tessellata)
     - ハオルチア・テッセラータ
@@ -142,7 +142,7 @@
     - USDA Hardiness Zones 10a - 11b
 * Opuntia galapageia
     - ガラパゴスウチワサボテン
-    - 耐寒性:日本での記述だと-5度ほどあるらしい。
+    - 耐寒性:日本での記述だと-5度ほどあるらしい。冬期軒下屋外管理でも行ける。
     - カイガラムシがよくつく。
     - 外に置きっぱなししていたら少し枯れてきたようにも見える。 2021/02/07
     - USDA Hardiness Zones 9b - 11
@@ -186,15 +186,24 @@
     - 彼岸花 八重咲き
     - 毒があるので、ペットの誤食に注意。
     - USDA Hardiness Zones possibly 5b - 10
-* Philodendron
-    - フィロデンドロン
-    - ダイソーで購入、マイナスの気温の時に外に出してたら葉っぱが枯れてた。ので。2021/01/11に取り込んだが、そのまま枯れた。2021/02/07
-* ???
-    - ダイソーで購入した植物、マイナスの気温の時に外に出してたら葉っぱが枯れてた。ので。2021/01/11に取り込んだが、そのまま枯れた。2021/02/07
 * Moringa ovalifolia
     - ゴーストツリー
 * Phytolacca dioica
     - オンブー
+    - USDA Hardiness Zones 8 - 11
+* Sarcocaulon herrei
+    - サルコカウロン・ヘレー(竜骨城)
+* Sarcocaulon vanderietiae
+    - サルコカウロン：バンデルリチアエ(竜骨扇)
+    - USDA Hardiness Zones 10b - 11b
+* Conophytum burgeri
+    - コノフィツム・ブルゲリ
+    - USDA Hardiness Zones 10b - 11b
+* Eriospermum paradoxum
+    - エリオスペルマム・パラドクサム(霧氷玉)
+* Boophane disticha
+    - ブーファン・ディスティチャ
+    - USDA Hardiness Zones 9a - 10b
 
 ### 過去育成履歴
 
@@ -203,6 +212,11 @@
     - 耐寒性:？
     - 室内管理していたら枯れた。
     - USDA Hardiness Zones ?
+* Philodendron
+    - フィロデンドロン
+    - ダイソーで購入、マイナスの気温の時に外に出してたら葉っぱが枯れてた。ので。2021/01/11に取り込んだが、そのまま枯れた。2021/02/07
+* ???
+    - ダイソーで購入した植物、マイナスの気温の時に外に出してたら葉っぱが枯れてた。ので。2021/01/11に取り込んだが、そのまま枯れた。2021/02/07
 * Tectaria decurrens
     - ナナバケシダ
     - 耐寒性:低
