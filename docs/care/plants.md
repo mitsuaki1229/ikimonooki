@@ -8,6 +8,15 @@
 
 ### 育成中
 
+* Ledebouria socialis
+    - レデボウリア・ソシアリス
+    - USDA hardiness Zones 10a - 11b
+* Ledebouria galpinii
+    - レデボウリア・ガルピニー
+    - USDA hardiness Zones 9a - 10b
+* Euphorbia knuthii
+    - ユーフォルビア クンチー(巌流島)
+    - USDA hardiness zones 10b - 11b
 * Aloe somaliensis
     - アロエ ・ ソマリエンシス
     - 日の当たる軒下で行けているが、取り込んだほうが良いのか謎。 2021/12/07
@@ -24,6 +33,8 @@
     - 霜に当たらなければ冬期屋外管理でも行けるが、葉にはダメージが入る。
     - 日が当たりすぎると葉焼けしやすい気がする。
     - USDA Hardiness Zones 9b - 11
+* Aloe striatula
+    - アロエ ストリアツラ
 * Adenium obesum
     - 砂漠のバラ
     - 耐寒性:休眠中も日光に当てた方が良い。
@@ -47,7 +58,7 @@
     - 細葉剣山/姫剣山
     - 耐寒性:寒さに多少弱い。5度以上？大株なら屋外の軒下で行けるとの記載を見かけた。
 * Dioscorea elephantipes
-    - キッコウリュウ
+    - ディオスコレア・エレファンティペス(亀甲竜)
     - USDA Hardiness Zones 9b - 11b
 * Drynaria quercifolia
     - ドリナリア・クエルシフォリア
@@ -97,14 +108,18 @@
     - 寒さに強いらしい通年屋外管理を試してみるか悩んでいるが、試す勇気がない。
     - USDA Hardiness Zones 9b - 11
 * Pachypodium succulentum
-    - パキポディウム・サキュレンタム
+    - パキポディウム・サキュレンタム(天馬空)
     - USDA Hardiness Zones 9b - 11b
 * Pachypodium lealii
     - パキポディウム・レアリー
     - USDA hardiness zones 10a - 11b
 * Pachypodium saundersii
-    - パキポディウム・サウンデルシー
+    - パキポディウム・サウンデルシー(白馬城)
     - USDA hardiness zones 10a - 11
+* Pachypodium namaquanum
+    - パキポディウム・ナマクアナム
+    - Zone的に寒さに弱そうだが、見た感じ屋外の寒さにあてても元気そうには見える。 2021/12/11
+    - USDA hardiness zones 10b to 11b
 * Hydrocotyle verticillata
     - ウォーターマッシュルーム,ウチワゼニクサ,ウォーターコイン
     - 耐寒性:屋外で放置しているが、毎年生えてはいる様子。
@@ -119,10 +134,6 @@
     - USDA Hardiness Zones 9b-11b
     - 葉っぱをリクガメに全て食われたので、復活するか様子見中。 2020/11/14
     - 上記は復活した。
-* Schizobasis intricata
-    - シゾバシス・イントリカータ
-    - 耐寒性:冬場外で行けるとの記載を見かけた。断水気味で5度以上との記載もあり。
-    - USDA Hardiness Zones possibly 9b or 10a
 * Sansevieria concinna 'Spoon leaf'
     - サンスベリア コンシンナ スプーンリーフ
     - 耐寒性:あまり高くない、10度以上。
@@ -162,6 +173,7 @@
     - ハナツルソウ,ベビーサンローズ
     - 耐寒性:強い。
     - アイスプラントの仲間、リクガメの餌用に導入。
+  - USDA Hardiness Zones 9 - 10
 * Rhipsalis sp
     - リプサリス,ヤドリギサボテン
     - 耐寒性:日本情報だと5度くらい。
@@ -172,12 +184,9 @@
 * Stephanotis floribunda
     - マダガスカルジャスミン
     - USDA Hardiness Zones 10A - 11
-* Sansevieria pinguicula
-    - サンスベリア・ピングイキュラ
-    - USDA Hardiness Zones possibly 8b - 11
-    - 2021/01/23 霜が出た日に枯れてきてるように見えるので、8bだとしても日本の環境だと厳しそう。
 * Tillandsia utriculata ssp. pringlei
     - 軒下屋外で越冬出来ている。
+    - USDA Hardiness Zones 9a - 11
 * Philodendron imbe 'Silver Metal'
     - フィロデンドロン シルバーメタル
     - 耐寒性:最低温度が1~4度くらいの時期に、外の風が吹く場所に置いていたら、若い葉が溶けるように枯れ始めた。成長した葉っぱは大丈夫そうだが取り込み。 2020/12/20 12:27
@@ -188,11 +197,13 @@
     - USDA Hardiness Zones possibly 5b - 10
 * Moringa ovalifolia
     - ゴーストツリー
+    - USDA Hardiness Zones possibly 9 - 10
 * Phytolacca dioica
     - オンブー
     - USDA Hardiness Zones 8 - 11
 * Sarcocaulon herrei
     - サルコカウロン・ヘレー(竜骨城)
+    - USDA Hardiness Zones 9b - 11
 * Sarcocaulon vanderietiae
     - サルコカウロン：バンデルリチアエ(竜骨扇)
     - USDA Hardiness Zones 10b - 11b
@@ -204,9 +215,18 @@
 * Boophane disticha
     - ブーファン・ディスティチャ
     - USDA Hardiness Zones 9a - 10b
+* Lithops
+    - リトープス
+    - USDA Hardiness Zones 10b - 11b
+* Acacia erioloba
+    - キャメル ソーン
+    - USDA Hardiness Zones 8b - 11
 
 ### 過去育成履歴
 
+* Acacia tortilis
+    - サバンナ・アカシア
+    - 水切れで枯らしてしまった...。
 * Colysis pothifolia
     - オオイワヒトデ
     - 耐寒性:？
@@ -246,6 +266,16 @@
     - ネオレゲリア    
     - USDA Hardiness Zones possibly 10b - 12
     - 棚開けのために配った。樹上性トカゲ類の飼育をやめたのでレイアウトにも使わなそうだし。
+* Sansevieria pinguicula
+    - サンスベリア・ピングイキュラ
+    - USDA Hardiness Zones possibly 8b - 11
+    - 2021/01/23 霜が出た日に枯れてきてるように見えるので、8bだとしても日本の環境だと厳しそう。
+    - 上記からそのまま枯れてしまった。霜が降りると無理そう。
+* Schizobasis intricata
+    - シゾバシス・イントリカータ
+    - 耐寒性:冬場外で行けるとの記載を見かけた。断水気味で5度以上との記載もあり。
+    - USDA Hardiness Zones possibly 9b or 10a
+    - 夏頃見たら枯れていた。冬場は生きていたような気はする。
 
 ## メモ
 
