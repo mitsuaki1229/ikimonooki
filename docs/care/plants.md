@@ -82,9 +82,6 @@
     - ガジュマル
     - 日の当たる軒下で冬期屋外管理可能だが、株にダメージは入っていそうな雰囲気を感じる。
     - USDA Hardiness Zones 9 - 12
-* Ficus rubiginosa
-    - フランスゴムの木
-    - USDA Hardiness Zones 10B - 11
 * Gasteria armstrongii
     - 臥牛
     - 2020/12/10 11~屋外で管理してる。少し葉っぱが赤くなってきた。
@@ -221,6 +218,13 @@
 * Acacia erioloba
     - キャメル ソーン
     - USDA Hardiness Zones 8b - 11
+* Kalanchoe daigremontiana Fushicho' f.variegata
+    - 不死鳥錦
+    - USDA Hardiness Zones 9 - 11
+    - よく増える。
+* Asimina triloba
+    - ポポーの木
+    - USDA Hardiness Zones 5 - 8
 
 ### 過去育成履歴
 
@@ -276,6 +280,9 @@
     - 耐寒性:冬場外で行けるとの記載を見かけた。断水気味で5度以上との記載もあり。
     - USDA Hardiness Zones possibly 9b or 10a
     - 夏頃見たら枯れていた。冬場は生きていたような気はする。
+* Ficus rubiginosa
+    - フランスゴムの木
+    - USDA Hardiness Zones 10B - 11
 
 ## メモ
 
