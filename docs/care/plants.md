@@ -142,12 +142,13 @@
     - USDA hardiness zone 9b - 11b
 * Haworthiopsis tessellata(Haworthia tessellata)
     - ハオルチア・テッセラータ
-    - 耐寒性:日本の記載だと寒さに弱いらしいが、ビニールで保護すれば屋外も行けるとの記載有り。場合によっては0度以下も行けるか？
+    - 耐寒性:日本の記載だと寒さに弱いらしいが、ビニールで保護すれば屋外も行けるとの記載有り。場合によっては0度以下も行けるか？->ビニールをつけなくても屋外軒下管理で行けた。
     - USDA Hardiness Zones 9b - 11b
 * Haworthia cooperi
-    - ハオルチア・クーペリー,雫石
-    - 耐寒性:室内のほうが安全そうかな。
+    - ハオルチア・クーペリー(雫石)
     - USDA Hardiness Zones 10a - 11b
+* Haworthia chloracantha
+    - USDA Hardiness Zones 9b - 11b
 * Opuntia galapageia
     - ガラパゴスウチワサボテン
     - 耐寒性:日本での記述だと-5度ほどあるらしい。冬期軒下屋外管理でも行ける。
@@ -180,7 +181,7 @@
     - USDA Hardiness Zones 10 - 12
 * Stephanotis floribunda
     - マダガスカルジャスミン
-    - USDA Hardiness Zones 10A - 11
+    - USDA Hardiness Zones 10a - 11
 * Tillandsia utriculata ssp. pringlei
     - 軒下屋外で越冬出来ている。
     - USDA Hardiness Zones 9a - 11
@@ -282,7 +283,8 @@
     - 夏頃見たら枯れていた。冬場は生きていたような気はする。
 * Ficus rubiginosa
     - フランスゴムの木
-    - USDA Hardiness Zones 10B - 11
+    - USDA Hardiness Zones 10b - 11
+    - 冬場窓際に置いておいたら枯れた。
 
 ## メモ
 
