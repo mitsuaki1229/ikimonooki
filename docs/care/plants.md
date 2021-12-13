@@ -97,7 +97,7 @@
 * Ipomoea holubii
     - イポメア・ホルビー
     - 産地:Malawi, Zambia, Zimbabwe, Mozambique, Namibia, Botswana and mainly the Northern Province
-    - 耐寒性:あまり強くないとの記載有り
+    - 耐寒性:あまり強くないとの記載有り 海外のサイトだと6度くらいが限界？
     - 春先くらいから外にだし11月終盤くらいに室内に取り込んでいる。直射日光に当たる所で管理している。
 * Pachypodium bispinosum(succulentum?)
     - パキポディウム・ビスピノーサム(サキュレンタムのようにも見える。)
@@ -226,6 +226,14 @@
 * Asimina triloba
     - ポポーの木
     - USDA Hardiness Zones 5 - 8
+* Pelargonium mirabile
+    - ペラルゴニム・ミラビレ
+    - USDA Hardiness Zones 9
+* Albuca spiralis
+    - アルブカ スピラリス
+* Epiphyllum spp.
+    - クジャクサボテン
+    - USDA Hardiness Zones 10 - 11
 
 ### 過去育成履歴
 
