@@ -234,6 +234,9 @@
 * Epiphyllum spp.
     - クジャクサボテン
     - USDA Hardiness Zones 10 - 11
+* Boswellia neglecta
+    - ボスウェリア ネグレクタ
+    - USDA Hardiness Zones 10a - 11
 
 ### 過去育成履歴
 
