@@ -238,6 +238,14 @@
     - ボスウェリア ネグレクタ
     - USDA Hardiness Zones 10a - 11
 * Glottiphyllum sp.
+    - グロッチフィルム
+* Adansonia digitata
+    - アフリカバオバブ
+    - 最低気温1度くらいまで外に出してたけど一部落葉しない。2021/12/19
+    - USDA Hardiness Zones 10b - 11
+* Asplenium nidus
+    - シマオオタニワタリ
+    - USDA Hardiness Zones 9 - 11
 
 ### 過去育成履歴
 
