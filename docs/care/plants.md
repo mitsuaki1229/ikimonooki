@@ -237,6 +237,7 @@
 * Boswellia neglecta
     - ボスウェリア ネグレクタ
     - USDA Hardiness Zones 10a - 11
+* Glottiphyllum sp.
 
 ### 過去育成履歴
 
