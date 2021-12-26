@@ -231,6 +231,12 @@
     - USDA Hardiness Zones 9
 * Albuca spiralis
     - アルブカ スピラリス
+* Albuca namaquensis
+    - アルブカ ナマクエンシス
+* Albuca concordiana
+    - アルブカ コンコルディアナ
+* Albuca sp. 'Augrabies Hills'
+    - アルブカ アウグラビエス ヒルズ
 * Epiphyllum spp.
     - クジャクサボテン
     - USDA Hardiness Zones 10 - 11
