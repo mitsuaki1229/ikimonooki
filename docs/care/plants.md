@@ -252,6 +252,11 @@
 * Asplenium nidus
     - シマオオタニワタリ
     - USDA Hardiness Zones 9 - 11
+* Euphorbia sp.?
+    - 入手先にキリンの一種とは言われているが詳細は不明。
+* Gerrardanthus macrorhizus
+    - ゲラルダンサス マクロリザス(眠り布袋)
+    - USDA Hardiness Zones 9b - 11
 
 ### 過去育成履歴
 
