@@ -257,6 +257,14 @@
 * Gerrardanthus macrorhizus
     - ゲラルダンサス マクロリザス(眠り布袋)
     - USDA Hardiness Zones 9b - 11
+* Rhizophora mucronata
+    - ヤエヤマヒルギ マングローブ
+* Tylecodon pearsonii
+    - チレコドン・ペアルソニー
+    - USDA Hardiness Zones 9b - 11b
+* Ceraria pygmaea
+    - ケラリア・ピグマエア
+    - USDA Hardiness Zones 9b - 11b
 
 ### 過去育成履歴
 
