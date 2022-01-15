@@ -149,6 +149,9 @@
     - USDA Hardiness Zones 10a - 11b
 * Haworthia chloracantha
     - USDA Hardiness Zones 9b - 11b
+* Haworthia sp.
+    - truncataとmaughaniiのハイブリッド？
+    - 通年屋外管理で行けている。
 * Opuntia galapageia
     - ガラパゴスウチワサボテン
     - 耐寒性:日本での記述だと-5度ほどあるらしい。冬期軒下屋外管理でも行ける。
@@ -265,6 +268,15 @@
 * Ceraria pygmaea
     - ケラリア・ピグマエア
     - USDA Hardiness Zones 9b - 11b
+* Adenia ovata
+    - アデニア・オバタ
+    - 夏型 寒さには弱いとの事。
+* Othonna euphorbioides
+    - オトンナ・ユーフォルビオイデス(黒鬼城)
+* Othonna retrorsa
+    - オトンナ・レトロルサ
+    - 耐寒性は高いとの事。
+* 
 
 ### 過去育成履歴
 
