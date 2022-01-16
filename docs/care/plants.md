@@ -336,6 +336,27 @@
     - フランスゴムの木
     - USDA Hardiness Zones 10b - 11
     - 冬場窓際に置いておいたら枯れた。
+* Haemanthus coccineus
+    - ハエマンサス コクシネウス(赤花眉刷)
+    - USDA Hardiness Zones 10
+* Drimia sp. cf. platyphylla
+    - ドリミア プラティフィラ
+* Cyanella hyacinthoides
+    - キアネラ ヒヤシントイデス
+    - USDA Hardiness Zones 8 - 11
+* Ornithoglossum viride
+    - オーニソグロッサムヴィリデ
+* Ornithogalum sp
+    - オーニソガラム SP
+* Haemanthus amarylloides ssp. amarylloides
+    - ハエマンサス アマリロイデス
+* Massonia echinata
+    - マッソニア エキナータ
+    - USDA Hardiness Zones 8
+* Eriospermum dregei
+    - エリオスペルマム ドレゲイ
+* Gethyllis verticillata
+    - ゲチリス ベルティシラータ
 
 ## メモ
 
