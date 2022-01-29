@@ -13,6 +13,7 @@
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
 * リビア地中海リクガメ(Testudo graeca nabeulensis)
 * ソマリアリクガメ(Stigmochelys pardalis babcocki)
+    - [ソマリアリクガメを購入してから死ぬまでの237日の記録~リクガメにイカの甲羅は危ないから使うのやめた方が良いかも~](https://note.com/ikimonooki/n/ncac36e7b6a86)
 * パンケーキリクガメ(Malacochersus tornieri)
 * [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys-belliana.md)
 * [ホームセオレガメ(Kinixys homeana)](creatures/kinixys-homeana.md)
