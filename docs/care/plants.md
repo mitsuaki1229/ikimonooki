@@ -273,10 +273,39 @@
     - 夏型 寒さには弱いとの事。
 * Othonna euphorbioides
     - オトンナ・ユーフォルビオイデス(黒鬼城)
+    - USDA Hardiness Zones 8a - 10b
 * Othonna retrorsa
     - オトンナ・レトロルサ
     - 耐寒性は高いとの事。
-* 
+* Haemanthus coccineus
+    - ハエマンサス コクシネウス(赤花眉刷)
+    - USDA Hardiness Zones 10
+* Drimia sp. cf. platyphylla
+    - ドリミア プラティフィラ
+* Cyanella hyacinthoides
+    - キアネラ ヒヤシントイデス
+    - USDA Hardiness Zones 8 - 11
+* Ornithoglossum viride
+    - オーニソグロッサムヴィリデ
+* Ornithogalum sp
+    - オーニソガラム SP
+* Ornithogalum Tortuosum
+    - オーニソガラム トルツオスム
+* Haemanthus amarylloides ssp. amarylloides
+    - ハエマンサス アマリロイデス
+* Massonia echinata
+    - マッソニア エキナータ
+    - USDA Hardiness Zones 8
+* Massonia depressa
+    - マッソニア デプレッサ
+    - USDA Hardiness Zones 8
+* Eriospermum dregei
+    - エリオスペルマム ドレゲイ
+* Gethyllis verticillata
+    - ゲチリス ベルティシラータ
+* Euphorbia Obesa
+    - ユーフォルビア オベサ
+    - USDA Hardiness Zones 10 - 11
 
 ### 過去育成履歴
 
@@ -336,27 +365,6 @@
     - フランスゴムの木
     - USDA Hardiness Zones 10b - 11
     - 冬場窓際に置いておいたら枯れた。
-* Haemanthus coccineus
-    - ハエマンサス コクシネウス(赤花眉刷)
-    - USDA Hardiness Zones 10
-* Drimia sp. cf. platyphylla
-    - ドリミア プラティフィラ
-* Cyanella hyacinthoides
-    - キアネラ ヒヤシントイデス
-    - USDA Hardiness Zones 8 - 11
-* Ornithoglossum viride
-    - オーニソグロッサムヴィリデ
-* Ornithogalum sp
-    - オーニソガラム SP
-* Haemanthus amarylloides ssp. amarylloides
-    - ハエマンサス アマリロイデス
-* Massonia echinata
-    - マッソニア エキナータ
-    - USDA Hardiness Zones 8
-* Eriospermum dregei
-    - エリオスペルマム ドレゲイ
-* Gethyllis verticillata
-    - ゲチリス ベルティシラータ
 
 ## メモ
 
