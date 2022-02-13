@@ -26,6 +26,7 @@
     - USDA Hardiness Zones 9b - 11
 * Aloe striatula
     - アロエ ストリアツラ
+    - USDA Hardiness Zones 8b - 11b
 * Adenium obesum
     - 砂漠のバラ
     - 耐寒性:休眠中も日光に当てた方が良い。
@@ -130,6 +131,7 @@
     - USDA hardiness zone 9b - 11b
 * Eriospermum dregei
     - エリオスペルマム ドレゲイ
+    - 実生を導入してから1~2週間程で葉っぱが変色しはじめ、4週間程で葉っぱが黄色くなってしまった。昼間屋外夜間室内で管理。一時的なものなのか枯れたのかは不明。 2022/02/12
 * Eriospermum cooperi
     - エリオスペルマム クーペリー
     - 発根管理中 2022/02/03 ~
@@ -299,6 +301,7 @@
 * Stephanotis floribunda
     - マダガスカルジャスミン
     - USDA Hardiness Zones 10a - 11
+    - カイガラムシがつきやすい。
 * Tylecodon pearsonii
     - チレコドン・ペアルソニー
     - USDA Hardiness Zones 9b - 11b
