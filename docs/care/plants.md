@@ -86,9 +86,6 @@
     - ドルステニア・フォエチダ
     - 耐寒性:寒さに弱い、休眠中も多少の水やりが必要との記載あり。
     - USDA Hardiness Zones 10
-* Dyckia rariflora
-    - 細葉剣山/姫剣山
-    - 耐寒性:寒さに多少弱い。5度以上？大株なら屋外の軒下で行けるとの記載を見かけた。
 * Dioscorea elephantipes
     - ディオスコレア・エレファンティペス(亀甲竜)
     - USDA Hardiness Zones 9b - 11b
@@ -119,9 +116,6 @@
     - 耐寒性:最低温度が1~4度くらいの時期に、外の風が吹く場所に置いていたら枯れそうになった。軒下のは大丈夫そうなのでもう少し様子を見る。 2020/12/20 12:27
     - ポトス原種、葉っぱの色が変わってきたので取り込む。霜が降りた際に流通種は枯れた。 2021/01/12
     - USDA Hardiness Zones 9b - 11
-* Epiphyllum guatemalense
-    - カーリーロックサボテン
-    - USDA Hardiness Zones 10b - 11
 * Epiphyllum spp.
     - クジャクサボテン
     - USDA Hardiness Zones 10 - 11
@@ -376,6 +370,14 @@
     - ブラッサイア
     - USDA Hardiness Zones 10 - 12
     - 場所空けのためにEGGに持っていった。
+* Epiphyllum guatemalense
+    - カーリーロックサボテン
+    - USDA Hardiness Zones 10b - 11
+    - 場所空けのためにEGGに持っていった。 2022/02/20
+* Dyckia rariflora
+    - 細葉剣山/姫剣山
+    - 耐寒性:寒さに多少弱い。5度以上？大株なら屋外の軒下で行けるとの記載を見かけた。
+    - 場所空けのためにEGGに持っていった。 2022/02/20
 
 ## メモ
 
