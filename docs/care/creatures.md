@@ -10,32 +10,40 @@
 
 #### カメ
 
+##### リクガメ
+
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
 * リビア地中海リクガメ(Testudo graeca nabeulensis)
+* ニシヘルマンリクガメ(Testudo hermanni hermanni)
 * ソマリアリクガメ(Stigmochelys pardalis babcocki)
     - [ソマリアリクガメを購入してから死ぬまでの237日の記録~リクガメにイカの甲羅は危ないから使うのやめた方が良いかも~](https://note.com/ikimonooki/n/ncac36e7b6a86)
 * パンケーキリクガメ(Malacochersus tornieri)
 * [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys/belliana.md)
 * [ホームセオレガメ(Kinixys homeana)](creatures/kinixys/homeana.md)
 * [モリセオレガメ(Kinixys erosa)](creatures/kinixys/erosa.md)
+
+##### ヤマガメ・ハコガメ
+
+* オオヤマガメ(Heosemys grandis)
+* ガルフコーストハコガメ(Terrapene carolina major)
+* モエギハコガメ(Cuora galbinifrons)
 * スペングラーヤマガメ(Geoemyda spengleri)
-* ミシシッピニオイガメ(Sternotherus odoratus)
+
+##### ミズガメ
+
 * ヌマヨコクビガメ(Pelomedusa subrufa)
     - 冬場、産地にもよると思うが、半冬眠状態で飼育出来ていた。
 * [クリイロハコヨコクビガメ(Pelusios castaneus)](creatures/pelusios-castaneus.md)
 * オカバンゴハコヨコクビガメ(Pelusios bechuanicus)
-* [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)
-* スペインイシガメ(Mauremys leprosa leprosa)
+* [スペインイシガメ(Mauremys leprosa leprosa)](creatures/mauremys-leprosa-leprosa.md)
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * モロッコイシガメ(Mauremys leprosa ssp.)
-* [モロッコスペインイシガメ(Mauremys leprosa leprosa)](creatures/mauremys-leprosa-leprosa.md)
+* [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)
+* ミシシッピニオイガメ(Sternotherus odoratus)
 * ミシシッピアカミミガメ(ミドリガメ)(Trachemys scripta elegans)
 * クサガメ(Mauremys reevesii)
 * ニホンイシガメ(Mauremys japonica)
 * セネガルフタスッポン(Cyclanorbis senegalensis)
-* オオヤマガメ(Heosemys grandis)
-* ガルフコーストハコガメ(Terrapene carolina major)
-* モエギハコガメ(Cuora galbinifrons)
 
 #### トカゲ
 
@@ -91,7 +99,7 @@
 
 ### 両生類
 
-* サンショウウオSP
+* サンショウウオSP(Hynobius sp.)
 * [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus.md)
 * トウホクサンショウウオ(Hynobius lichenatus)
 * [トウキョウサンショウウオ(Hynobius tokyoensis)](creatures/hynobius-tokyoensis.md)
@@ -101,6 +109,7 @@
 * ヒダサンショウウオ(Hynobius kimurae)
 * アマガエル(Dryophytes japonica)
 * モリアオガエル(Rhacophorus arboreus)
+* トノサマガエル(Pelophylax nigromaculatus)
 * アフリカウシガエル(Pyxicephalus adspersus)
 * アジアウキガエル(Occidozyga lima)
 * ヤマアカガエル(Rana ornativentris)
@@ -116,33 +125,33 @@
 * マダガスカルコックローチ(Gromphadorhina portentosa)
 * デュビア(Blaptica dubia)
 * [レッドローチ(Shelfordella lateralis)](creatures/shelfordella-lateralis.md)
-* ヨーロッパイエコオロギ(Acheta domesticus)
 * フタホシコオロギ(Gryllus bimaculatus)
-* ジャイアントミルワーム
+* ジャイアントミルワーム(Zophobas morio)
 * ミルワーム
-* ハニーワーム
-* 蚕
+* 蚕(Bombyx mori)
 * グレーター・ホーンド・バブーン(Ceratogyrus brachycephalus)
 * サウスアフリカ・ホーンド・バブーン(Ceratogyrus darlingi)
 * ウザンバラオレンジバブーン(Pterinochilus murinus)
 * チブサトゲグモ(Thelacantha brevispina)
-* タイコウチ
+* タイコウチ(Laccotrephes japonensis)
 * ハイイロゲンゴロウ
 * アマミサソリモドキ
 * テキサスジャイアントビネガロン
+* ヨーロッパイエコオロギ(Acheta domesticus)
+* ハニーワーム(Galleria mellonella)
 
 ### 甲殻類
 
-* ホソワラジムシ
+* ホソワラジムシ(Porcellionides pruinosus)
 * キルギスオオワラジムシ
 * ダンゴムシ
 * オカヤドカリ(Coenobita cavipes)
-* ミステリークレイフィッシュ(Procambarus fallax forma virginalis)
-* アメリカザリガニ(Procambarus clarkii)
 * サワガニ(Geothelphusa dehaani)
 * モクズガニ(Eriocheir japonica)
 * レッドビーシュリンプ(Neocaridina sp.)
 * ヤシガニ(Birgus latro)
+* ミステリークレイフィッシュ(Procambarus fallax forma virginalis)
+* アメリカザリガニ(Procambarus clarkii)
 
 ### 哺乳類
 
@@ -155,6 +164,7 @@
 
 * 九官鳥(Gracula religiosa)
 * 鶉
+* 鳩(Columbidae)
 
 ### 貝
 
@@ -168,14 +178,14 @@
 
 ### 魚
 
-* 金魚
-* メダカ
-* ハリセンボン
-* インペリアルゼブラプレコ
-* アフィオセミオン・オーストラレ
+* ハリセンボン(Diodon holocanthus)
+* インペリアルゼブラプレコ(Hypancistrus zebra)
+* アフィオセミオン・オーストラレ(Aphyosemion australe)
 * コンゴテトラ
 * レッドファントムテトラ
 * ペンシルフィッシュ
 * オトシンクルス
 * 錦鯉
 * ドジョウ
+* 金魚(Carassius auratus)
+* メダカ
