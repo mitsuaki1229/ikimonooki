@@ -57,6 +57,9 @@
 * Asplenium nidus
     - シマオオタニワタリ
     - USDA Hardiness Zones 9 - 11
+* Angraecum distichum
+    - アングレカム ディスティカム
+    - USDA Hardiness Zones 10
 * Boophane disticha
     - ブーファン・ディスティチャ
     - USDA Hardiness Zones 9a - 10b
@@ -69,6 +72,12 @@
 * Boswellia neglecta
     - ボスウェリア ネグレクタ
     - USDA Hardiness Zones 10a - 11
+* Chamaerops humilis
+    - チャメロップス フミリス セリフェラ
+    - USDA Hardiness Zones 8b - 11
+* Cyphostemma juttae
+    - ブドウガメ
+    - USDA Hardiness Zones 9b - 11b
 * Cyanella hyacinthoides
     - キアネラ ヒヤシントイデス
     - USDA Hardiness Zones 8 - 11
@@ -275,6 +284,9 @@
     - フィロデンドロン シルバーメタル
     - 耐寒性:最低温度が1~4度くらいの時期に、外の風が吹く場所に置いていたら、若い葉が溶けるように枯れ始めた。成長した葉っぱは大丈夫そうだが取り込み。 2020/12/20 12:27
     - USDA Hardiness Zones 9b - 11
+* Pelargonium carnosum
+    - 枯野葵
+    - USDA Hardiness Zones 7 to 11
 * Rhizophora mucronata
     - ヤエヤマヒルギ マングローブ
 * Rhipsalis sp
