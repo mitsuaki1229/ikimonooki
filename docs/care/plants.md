@@ -268,6 +268,14 @@
     - 日の当たる軒下で通年屋外管理出来ているが、乾燥させすぎると枯れる。
     - 産地:Southeast Asia, Polynesia, subtropical Australia
     - USDA Hardiness Zones 9 - 12
+* Platycerium grande
+    - プラティケリウム・グランデ
+    - USDA hardiness zones 10
+* Platycerium alcicorne
+    - プラティケリウム・アルシコルネ
+    - USDA hardiness zones 10b
+* Platycerium elephantotis
+    - プラティケリウム・エレファントティス
 * Phytolacca dioica
     - オンブー
     - USDA Hardiness Zones 8 - 11
