@@ -33,6 +33,7 @@
 
 * ヌマヨコクビガメ(Pelomedusa subrufa)
     - 冬場、産地にもよると思うが、半冬眠状態で飼育出来ていた。
+* エリトリアヌマヨコクビガメ(Pelomedusa olivacea)
 * [クリイロハコヨコクビガメ(Pelusios castaneus)](creatures/pelusios-castaneus.md)
 * オカバンゴハコヨコクビガメ(Pelusios bechuanicus)
 * [スペインイシガメ(Mauremys leprosa leprosa)](creatures/mauremys-leprosa-leprosa.md)
