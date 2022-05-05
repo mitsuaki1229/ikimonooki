@@ -276,6 +276,10 @@
     - USDA hardiness zones 10b
 * Platycerium elephantotis
     - プラティケリウム・エレファントティス
+* Platycerium stemaria
+    - プラティケリウム・ステマリア
+* Platycerium madagascariense
+    - プラティケリウム・マダガスカリエンセ
 * Phytolacca dioica
     - オンブー
     - USDA Hardiness Zones 8 - 11
