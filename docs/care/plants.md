@@ -215,9 +215,6 @@
 * Massonia depressa
     - マッソニア デプレッサ
     - USDA Hardiness Zones 8
-* Moringa ovalifolia
-    - ゴーストツリー
-    - USDA Hardiness Zones possibly 9 - 10
 * Mesembryanthemum cordifolium
     - ハナツルソウ,ベビーサンローズ
     - 耐寒性:強い。
@@ -402,6 +399,10 @@
     - 細葉剣山/姫剣山
     - 耐寒性:寒さに多少弱い。5度以上？大株なら屋外の軒下で行けるとの記載を見かけた。
     - 場所空けのためにEGGに持っていった。 2022/02/20
+* Moringa ovalifolia
+    - ゴーストツリー
+    - USDA Hardiness Zones possibly 9 - 10
+    - 真冬含めて屋外管理していたら、春に腐って枯れていた。
 
 ## メモ
 
