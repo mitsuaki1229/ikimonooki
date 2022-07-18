@@ -277,6 +277,11 @@
     - プラティケリウム・ステマリア
 * Platycerium madagascariense
     - プラティケリウム・マダガスカリエンセ
+    - 幼苗を水不足で枯らしてしまった事がある。
+    - また、蒸れると溶ける。
+    - 原産地では滝の横など、湿度が高く、かつ蒸れないような環境に生息しているため、頻繁な水やりが必要。
+* Platycerium quadridichotomum
+    - プラティケリウム・アドリディコトマム
 * Phytolacca dioica
     - オンブー
     - USDA Hardiness Zones 8 - 11
