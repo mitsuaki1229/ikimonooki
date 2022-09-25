@@ -28,7 +28,7 @@ permalink: /help/
 | ------- | ------- |
 | 販売主 | ikimonooki |
 | 販売・動物取扱責任者 | [Mitsuaki Ihara](https://about.me/mitsuaki1229) |
-| 所在地 | 神奈川県([来訪予約制](/help/about-reservation-to-come-to-ikimonooki)) |
+| 所在地 | 神奈川県茅ヶ崎市([来訪予約制](/help/about-reservation-to-come-to-ikimonooki)) |
 | 連絡先 | [Twitter@ikimonooki](https://twitter.com/ikimonooki)<br><a href="tel:050-5435-6406">050-5435-6406</a><br>[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSciDNlaG6wREvk-JSGTqiDJhya-Tsjt9Lu2RXWX-ah64RjwEA/viewform) |
 | 商品代金以外の必要金額 | 送料<br>お振込み手数料お客様ご負担 |
 | お申込み有効期限 | ご注文日を含めて14日間 |
@@ -62,15 +62,13 @@ permalink: /help/
 
 ## 資格・免許
 
-生体販売は現在お休み中。
-
-<!-- ### 動物取扱業
+### 動物取扱業
 
 | 種別 | 登録番号 | 登録年月日 | 登録有効期間 |
 | ------- | ------- | ------- | ------- |
 | 販売 | 動愛第190231号 | 2020年2月19日 | 2025年2月18日 |
 | 保管 | 動愛第200028号 | 2020年5月1日 | 2025年4月30日 |
-| 貸出し | 動愛第200029号 | 2020年5月1日 | 2025年4月30日 | -->
+| 貸出し | 動愛第200029号 | 2020年5月1日 | 2025年4月30日 |
 
 ### 古物商
 
