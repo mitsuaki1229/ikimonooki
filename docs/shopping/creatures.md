@@ -5,12 +5,12 @@
 
 ## 販売中
 
-* モリセオレガメ x2匹 (まとめて販売のみ)
-* ホームセオレガメ x5匹 (ペア・トリオ・もしくはメス単品(1匹のみ)売りのみ)
-* キレナイカギリシャリクガメ x2匹 (まとめて販売のみ)
-* ソリガメ x2匹 (まとめて販売のみ)
-* スペングラーヤマガメ x4匹 (まとめて販売のみ)
-* ヒダサンショウウオ x4匹 (まとめて販売のみ・飼育用ワインセラーをオマケで付けることも可能です)
+* [モリセオレガメ](/shopping/creatures/kinixys-erosa) x2匹 (まとめて販売のみ)
+* [ホームセオレガメ](/shopping/creatures/kinixys-homeana) x5匹 (ペア・トリオ・もしくはメス単品(1匹のみ)売りのみ)
+* [キレナイカギリシャリクガメ](/shopping/creatures/testudo-graeca-cyrenaica) x2匹 (まとめて販売のみ)
+* [ソリガメ](/shopping/creatures/chersina-angulata) x2匹 (まとめて販売のみ)
+* [スペングラーヤマガメ](/shopping/creatures/geoemyda-spengleri) x4匹 (まとめて販売のみ)
+* [ヒダサンショウウオ](/shopping/creatures/hynobius-kimurae) x4匹 (まとめて販売のみ・飼育用ワインセラーをオマケで付けることも可能です)
 
 詳細情報は更新中です。
 お急ぎの方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
