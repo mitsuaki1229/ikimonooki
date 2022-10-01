@@ -5,10 +5,10 @@ permalink: /shopping/
 ---
 
 販売ページです。  
-現在特に生体は販売しておりませんが、なにか出すときはTwitterで周知しつつこのページを更新します。
+
+* [Creatures](/shopping/creatures)
 
 <!-- 
-* [Creatures](/shopping/creatures)
 * [Books](/shopping/books)
 * [Goods](/shopping/goods)
 * [Plants](/shopping/plants) -->
