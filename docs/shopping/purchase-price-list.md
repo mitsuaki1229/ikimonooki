@@ -7,7 +7,6 @@
 
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
 * スペングラーヤマガメ ベトナム オス(Geoemyda spengleri)
-* ソリガメ(Geoemyda spengleri)
 * スペインイシガメ(Mauremys leprosa leprosa)
 * モロッコイシガメ(Mauremys leprosa saharica)
 
