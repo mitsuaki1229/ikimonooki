@@ -22,5 +22,7 @@
 
 ## 画像
 
+* [真上からの画像]({{site.baseurl}}/assets/img/shopping/creatures/chersina-angulata/0/overhead_12.jpeg)
+
 ### 1 雌雄不明・甲長約8.5cm
 ### 2 雌雄不明・甲長約10cm

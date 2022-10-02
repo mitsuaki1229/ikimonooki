@@ -20,6 +20,8 @@
 
 ## 画像
 
+* [真上からの画像]({{site.baseurl}}/assets/img/shopping/creatures/hynobius-kimurae/0/overhead_1234.jpeg)
+
 ### 1 オス・体長約13cm
 ### 2 メス・体長約13.5cm
 ### 3 オス・体長約14.5cm

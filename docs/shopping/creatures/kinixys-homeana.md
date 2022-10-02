@@ -22,13 +22,11 @@
 
 ## 画像
 
-### 小型ペア
+* [真上からの画像 12]({{site.baseurl}}/assets/img/shopping/creatures/kinixys-homeana/0/overhead_12.jpeg)
+* [真上からの画像 345]({{site.baseurl}}/assets/img/shopping/creatures/kinixys-homeana/0/overhead_345.jpeg)
 
-#### 1 オス・甲長約13.5cm
-#### 2 メス・甲長約14.5cm
-
-### 大型トリオ
-
-#### 3 オス・甲長約18cm
-#### 4 メス・甲長約18cm
-#### 5 メス・甲長約20cm
+### 1 オス・甲長約13.5cm
+### 2 メス・甲長約14.5cm
+### 3 オス・甲長約18cm
+### 4 メス・甲長約18cm
+### 5 メス・甲長約20cm

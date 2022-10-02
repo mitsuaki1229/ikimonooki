@@ -22,5 +22,7 @@
 
 ## 画像
 
+* [真上からの画像]({{site.baseurl}}/assets/img/shopping/creatures/kinixys-erosa/0/overhead_12.jpeg)
+
 ### 1 オス・甲長約20cm
 ### 2 雄雌不明(メスっぽい?)・甲長約15cm
