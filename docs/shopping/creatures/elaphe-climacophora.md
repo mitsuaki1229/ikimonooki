@@ -26,4 +26,4 @@
 
 ## 画像
 
-* [Elaphe climacophora]({{site.baseurl}}/assets/img/shopping/creatures/elaphe_climacophora/1/1.jpeg)
+* [Elaphe climacophora]({{site.baseurl}}/assets/img/shopping/creatures/elaphe-climacophora/1/1.jpeg)
