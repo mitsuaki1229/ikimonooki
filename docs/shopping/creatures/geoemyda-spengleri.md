@@ -4,7 +4,9 @@
 | 通称名 | スペングラーヤマガメ |
 | 価格 | 4匹セットでの販売です。価格はお問い合わせ下さい |
 
-メイビーオスとアダルトのメス3匹。ベトナム産です。  
+オス(おそらく)とアダルトのメス3匹。ベトナム産です。  
+一番長い個体で6年ほど飼育しています。
+オスはオスで購入しており、尻尾も大きめなのでおそらくオスなのですが、まだ性成熟してないのでおそらくという表記にしています。
 繁殖目当てで育てていたのですが、僕の飼育爬虫類のカテゴリがアフリカ大陸産メインなのと、  
 立て続けにスペングラーのベビーを死なせてしまい、心が折れたので放出します。  
 また、売れる前に良さそうなオスを追加で入手するなど、ブリーディングを頑張る気力が復活したら取り下げます。  
@@ -14,7 +16,7 @@
 * 2016年に楽店さんからメスを購入
 * 2018/05/03に良心堂さんからメスを購入
 * 2020/10/13にaLiVeさんからメスを購入
-* 2021/07/31にR98さんからオス？を購入
+* 2021/07/31にR98さんからオスを購入
 
 ## その他
 
@@ -26,16 +28,16 @@
 
 ### 1 おそらくオス・甲長約7.3cm
 
-[Twitter画像](https://twitter.com/ikimonooki/status/1576811251342008320?s=20&t=Y-qNhTsUqS-e-5AQs156UA)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A4%E3%83%9E%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#スペングラーヤマガメ</a> 1 (9号) <a href="https://t.co/h3fEzRZcyP">pic.twitter.com/h3fEzRZcyP</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1576811251342008320?ref_src=twsrc%5Etfw">October 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2 メス・甲長約10cm
 
-[Twitter画像](https://twitter.com/ikimonooki/status/1576812236256878592?s=20&t=Y-qNhTsUqS-e-5AQs156UA)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A4%E3%83%9E%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#スペングラーヤマガメ</a> 2 (2号) <a href="https://t.co/asYCgdUkho">pic.twitter.com/asYCgdUkho</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1576812236256878592?ref_src=twsrc%5Etfw">October 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 3 メス・甲長約9cm
 
-[Twitter画像](https://twitter.com/ikimonooki/status/1576813054850789376?s=20&t=Y-qNhTsUqS-e-5AQs156UA)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A4%E3%83%9E%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#スペングラーヤマガメ</a> 3 (5号) <a href="https://t.co/874MZ6H2sc">pic.twitter.com/874MZ6H2sc</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1576813054850789376?ref_src=twsrc%5Etfw">October 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 4 メス・甲長約10.5cm
 
-[Twitter画像](https://twitter.com/ikimonooki/status/1576813895775186945?s=20&t=Y-qNhTsUqS-e-5AQs156UA)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A4%E3%83%9E%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#スペングラーヤマガメ</a> 4 (6号) <a href="https://t.co/x3B86dhqxw">pic.twitter.com/x3B86dhqxw</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1576813895775186945?ref_src=twsrc%5Etfw">October 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
