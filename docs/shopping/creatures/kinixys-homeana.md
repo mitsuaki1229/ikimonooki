@@ -27,7 +27,21 @@
 * [真上からの画像 345]({{site.baseurl}}/assets/img/shopping/creatures/kinixys-homeana/0/overhead_345.jpeg)
 
 ### 1 オス・甲長約13.5cm
+
+画像準備中。真上からの画像でご確認いただくか、お急ぎの方は[お問い合わせ](https://ikimonooki.com/help/)下さい。
+
 ### 2 メス・甲長約14.5cm
+
+画像準備中。真上からの画像でご確認いただくか、お急ぎの方は[お問い合わせ](https://ikimonooki.com/help/)下さい。
+
 ### 3 オス・甲長約18cm
+
+画像準備中。真上からの画像でご確認いただくか、お急ぎの方は[お問い合わせ](https://ikimonooki.com/help/)下さい。
+
 ### 4 メス・甲長約18cm
+
+画像準備中。真上からの画像でご確認いただくか、お急ぎの方は[お問い合わせ](https://ikimonooki.com/help/)下さい。
+
 ### 5 メス・甲長約20cm
+
+画像準備中。真上からの画像でご確認いただくか、お急ぎの方は[お問い合わせ](https://ikimonooki.com/help/)下さい。
