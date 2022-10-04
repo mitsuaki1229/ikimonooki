@@ -26,3 +26,5 @@
 ### 2 メス・体長約13.5cm
 ### 3 オス・体長約14.5cm
 ### 4 メス・体長約15cm
+
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%92%E3%83%80%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%A6%E3%82%AA?src=hash&amp;ref_src=twsrc%5Etfw">#ヒダサンショウウオ</a> 1,2,3,4 (1号,2号,3号,4号) <a href="https://t.co/6TdXNgCpyJ">pic.twitter.com/6TdXNgCpyJ</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577428480194928640?ref_src=twsrc%5Etfw">October 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
