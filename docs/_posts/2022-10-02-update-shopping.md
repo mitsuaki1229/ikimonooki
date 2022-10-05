@@ -11,6 +11,7 @@ categories: Information
 
 現在飼育している種類及び飼育匹数をさらに絞ることにし、下記を放出することにしました。  
 ※相場より安めにしているので、他の店舗にここでの価格を見せつつ、交渉するような事はご遠慮いただけますと。
+※また、放出などにより種親の総飼育数が35匹を切った場合、その時点で販売を取りやめます。※販売前時点で47匹
 
 * [モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)
 * [ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)
