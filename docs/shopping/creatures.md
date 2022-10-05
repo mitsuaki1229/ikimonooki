@@ -12,8 +12,7 @@
 * [スペングラーヤマガメ(Geoemyda spengleri)](/shopping/creatures/geoemyda-spengleri)
 * [ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)
 
-詳細情報は更新中です。
-お急ぎの方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
+興味のある方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
 それか[ツイッター経由](https://twitter.com/ikimonooki)のほうが早いかも。
 
 ## 販売終了
