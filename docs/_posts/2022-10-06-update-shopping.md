@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "放出個体を販売一覧に追加しました。"
-date:   2022/10/02 15:20:18 +0900
+date:   2022/10/06 20:00:00 +0900
 categories: Information
 ---
 

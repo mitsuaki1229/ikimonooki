@@ -36,12 +36,12 @@
 
 ### 3 オス・甲長約18cm
 
-画像準備中。真上からの画像でご確認いただくか、お急ぎの方は[お問い合わせ](https://ikimonooki.com/help/)下さい。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 3 (モリセオレガメ で購入したがホームセオレガメだった7号) <a href="https://t.co/H4Spml5pad">pic.twitter.com/H4Spml5pad</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577973525570125824?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 4 メス・甲長約18cm
 
-画像準備中。真上からの画像でご確認いただくか、お急ぎの方は[お問い合わせ](https://ikimonooki.com/help/)下さい。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 4 (モリセオレガメ で購入したがホームセオレガメだった8号) <a href="https://t.co/TaqYywFFX9">pic.twitter.com/TaqYywFFX9</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577974679565783040?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 5 メス・甲長約20cm
 
-画像準備中。真上からの画像でご確認いただくか、お急ぎの方は[お問い合わせ](https://ikimonooki.com/help/)下さい。
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 5 (4号) <a href="https://t.co/OVB3ygq547">pic.twitter.com/OVB3ygq547</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577975935965401088?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
