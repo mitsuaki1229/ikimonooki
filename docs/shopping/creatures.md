@@ -5,7 +5,6 @@
 
 ## 販売中
 
-* [モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)
 * [ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)
 * [キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)
 * [ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)
@@ -14,6 +13,10 @@
 
 興味のある方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
 それか[ツイッター経由](https://twitter.com/ikimonooki)のほうが早いかも。
+
+## 商談中
+
+* [モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)
 
 ## 販売終了
 
