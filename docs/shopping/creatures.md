@@ -17,6 +17,7 @@
 ## 商談中
 
 * [モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)
+* ヌマヨコクビガメ(Pelomedusa subrufa)
 
 ## 販売終了
 
