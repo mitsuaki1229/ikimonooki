@@ -48,6 +48,7 @@
     - [アクアリウムバス](https://aquariumbus.com/)
 * その他イベント。
     - [爬虫類のいない生き物即売会 AWAKE](https://twitter.com/awake98411039)
+* [爬虫類イベントでの生体購入時注意点](https://note.com/ikimonooki/n/n54a46d263cdf)
 * サイテス関連。
     - パンケーキリクガメ
         - [譲受けの届出](http://www.jwrc.or.jp/service/cites/regist/yuzuriuke.htm)
