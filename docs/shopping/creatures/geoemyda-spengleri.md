@@ -29,7 +29,7 @@
 
 * [真上からの画像]({{site.baseurl}}/assets/img/shopping/creatures/geoemyda-spengleri/0/overhead_1234.jpeg)
 
-### 1 おそらくオス・甲長約7.3cm
+### 1 オス・甲長約7.3cm
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%A4%E3%83%9E%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#スペングラーヤマガメ</a> 1 (9号) <a href="https://t.co/h3fEzRZcyP">pic.twitter.com/h3fEzRZcyP</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1576811251342008320?ref_src=twsrc%5Etfw">October 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
