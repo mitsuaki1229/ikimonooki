@@ -6,7 +6,6 @@
 ## 販売中
 
 * [ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)
-* [キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)
 * [ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)
 * [スペングラーヤマガメ(Geoemyda spengleri)](/shopping/creatures/geoemyda-spengleri)
 * [ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)
@@ -18,6 +17,7 @@
 
 * [モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)
 * ヌマヨコクビガメ(Pelomedusa subrufa)
+* [キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)
 
 ## 販売終了
 
