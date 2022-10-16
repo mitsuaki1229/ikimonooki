@@ -15,7 +15,6 @@
 
 ## 商談中
 
-* [モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)
 * ヌマヨコクビガメ(Pelomedusa subrufa)
 * [キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)
 
@@ -27,3 +26,4 @@
 * ~~[アオダイショウ(Elaphe climacophora)](/shopping/creatures/elaphe-climacophora)~~
 * ~~[ガルフコーストハコガメ(Terrapene carolina major)](/shopping/creatures/terrapene-carolina-major)~~
 * ~~オカバンゴハコヨコクビガメ(Pelusios bechuanicus)~~
+* ~~[モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)~~
