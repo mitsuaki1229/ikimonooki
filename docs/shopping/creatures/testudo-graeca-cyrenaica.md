@@ -26,7 +26,7 @@
 
 ## 画像
 
-* [真上からの画像]({{site.baseurl}}/assets/img/shopping/creatures/testudo-graeca-cyrenaica/0/overhead_12.jpeg)
+<!-- * [真上からの画像]({{site.baseurl}}/assets/img/shopping/creatures/testudo-graeca-cyrenaica/0/overhead_12.jpeg) -->
 
 ### 1 オス・甲長約15.5cm
 
