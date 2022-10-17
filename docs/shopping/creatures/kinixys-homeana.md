@@ -3,18 +3,17 @@
 | 学名 | Kinixys homeana |
 | 通称名 | ホームセオレガメ |
 | 価格 | 1,2の小型ペア(55,000円(税込)) |
-| 価格 | 3,5の組み合わせの大型ペアの場合(65,000円(税込)) |
-| 価格 | 3,4,5の組み合わせの大型トリオの場合(90,000円(税込)) |
-| 価格 | 5の大型のメス単品の場合(35,000円(税込)) |
-
-早めに2~3匹ほど手放したいので、セット価格で安めにしています。
+| 価格 | ~~3,5の組み合わせの大型ペアの場合(65,000円(税込))~~ |
+| 価格 | ~~3,4,5の組み合わせの大型トリオの場合(90,000円(税込))~~ |
+| 価格 | 4の大型のメス単品の場合(30,000円(税込)) |
+| 価格 | 5の大型のメス単品の場合(30,000円(税込)) |
 
 駆虫などトリートメントは実施しています。  
 1年半ほど飼育しています。  
 
 経緯として、モリセオレガメで購入したのに、ホームセオレガメだった個体が5匹いた事が発覚し、  
 ホームセオレガメが合計11匹になるのは流石に多すぎるので何匹か放出することにしました。  
-売れ残った時の組み合わせの事を考え、ペアかトリオ、もしくは5番のメス単体での販売になります。  
+売れ残った時の組み合わせの事を考え、ペアか大型のメス単体での販売になります。
 
 ## 生体記録
 
@@ -29,7 +28,7 @@
 * [真上からの画像 12]({{site.baseurl}}/assets/img/shopping/creatures/kinixys-homeana/0/overhead_12.jpeg)
 * [真上からの画像 345]({{site.baseurl}}/assets/img/shopping/creatures/kinixys-homeana/0/overhead_345.jpeg)
 
-### 1 オス・甲長約13.5cm
+### ~~1 オス・甲長約13.5cm~~
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 1 (モリセオレガメで購入したがホームセオレガメになった6号) <a href="https://t.co/XanRlvHcLX">pic.twitter.com/XanRlvHcLX</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577530848966246400?ref_src=twsrc%5Etfw">October 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
