@@ -16,7 +16,6 @@
 ## 商談中
 
 * ヌマヨコクビガメ(Pelomedusa subrufa)
-* [キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)
 
 ## 販売終了
 
@@ -27,3 +26,4 @@
 * ~~[ガルフコーストハコガメ(Terrapene carolina major)](/shopping/creatures/terrapene-carolina-major)~~
 * ~~オカバンゴハコヨコクビガメ(Pelusios bechuanicus)~~
 * ~~[モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)~~
+* ~~[キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)~~
