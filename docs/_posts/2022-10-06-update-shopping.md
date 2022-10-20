@@ -7,7 +7,7 @@ categories: Information
 
 特定の種類の繁殖や、自身の婚活に力を入れようかというのもあり、  
 現在飼育している種類及び飼育匹数をさらに絞ることにし、下記を放出することにしました。  
-※相場より安めにしているので、他の店舗にここでの価格を見せつつ、交渉するような事はご遠慮いただけますと。  
+※物によっては相場より安めにしているので、他の店舗にここでの価格を見せつつ、交渉するような事はご遠慮いただけますと。  
 
 * ~~[モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)~~
 * [ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)
