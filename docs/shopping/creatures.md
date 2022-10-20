@@ -13,10 +13,6 @@
 興味のある方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
 それか[ツイッター経由](https://twitter.com/ikimonooki)のほうが早いかも。
 
-## 商談中
-
-* ヌマヨコクビガメ(Pelomedusa subrufa)
-
 ## 販売終了
 
 * ~~[クロスサンカクヘビ(Limaformosa crossi)](/shopping/creatures/limaformosa-crossi)~~
@@ -27,3 +23,4 @@
 * ~~オカバンゴハコヨコクビガメ(Pelusios bechuanicus)~~
 * ~~[モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)~~
 * ~~[キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)~~
+* ~~ヌマヨコクビガメ(Pelomedusa subrufa)~~
