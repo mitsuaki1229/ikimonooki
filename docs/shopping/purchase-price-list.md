@@ -8,7 +8,7 @@
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
 * スペングラーヤマガメ ベトナム オス(Geoemyda spengleri)
 * スペインイシガメ(Mauremys leprosa leprosa)
-* モロッコイシガメ(Mauremys leprosa saharica)
+* モロッコイシガメ メス(Mauremys leprosa saharica)
 
 また、タイミング的に飼育スロットが埋まっている場合や、必要な種類を既に入手するなどしていた場合、  
 購入時の生体の種類の組み合わせなどでは、お断りする事もありますのでご了承ください。  
