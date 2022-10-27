@@ -4,7 +4,7 @@
 | 通称名 | ホームセオレガメ |
 | 価格 | ~~1,2の小型ペア(38,000円(税込))~~ |
 | 価格 | ~~3と4か5の組み合わせの大型ペアの場合(55,000円(税込))~~ |
-| 価格 | ~~3,4,5の組み合わせの大型トリオの場合(60,000円(税込)) まとめて買った方がオトク~~ |
+| 価格 | ~~3,4,5の組み合わせの大型トリオの場合(70,000円(税込))~~ |
 | 価格 | 4の大型のメス単品の場合(25,000円(税込)) |
 | 価格 | 5の大型のメス単品の場合(25,000円(税込)) |
 
@@ -30,11 +30,11 @@
 * [真上からの画像 12]({{site.baseurl}}/assets/img/shopping/creatures/kinixys-homeana/0/overhead_12.jpeg)
 * [真上からの画像 345]({{site.baseurl}}/assets/img/shopping/creatures/kinixys-homeana/0/overhead_345.jpeg)
 
-### ~~1 オス・甲長約13.5cm~~
+### ~~1 オス・甲長約13.5cm~~ 売れました。
 
 <!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 1 (モリセオレガメで購入したがホームセオレガメになった6号) <a href="https://t.co/XanRlvHcLX">pic.twitter.com/XanRlvHcLX</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577530848966246400?ref_src=twsrc%5Etfw">October 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-### ~~2 メス・甲長約14.5cm~~
+### ~~2 メス・甲長約14.5cm~~ 売れました。
 
 <!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 2 (モリセオレガメで購入したがホームセオレガメになった5号) <a href="https://t.co/zHMXtnZIIw">pic.twitter.com/zHMXtnZIIw</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577531870962941952?ref_src=twsrc%5Etfw">October 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
