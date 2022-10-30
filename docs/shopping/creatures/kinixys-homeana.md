@@ -3,13 +3,11 @@
 | 学名 | Kinixys homeana |
 | 通称名 | ホームセオレガメ |
 | 価格 | ~~1,2の小型ペア(38,000円(税込))~~ |
-| 価格 | ~~3と4か5の組み合わせの大型ペアの場合(55,000円(税込))~~ |
-| 価格 | ~~3,4,5の組み合わせの大型トリオの場合(70,000円(税込))~~ |
+| 価格 | 3と4か5の組み合わせの大型ペアの場合(50,000円(税込)) |
+| 価格 | 3,4,5の組み合わせの大型トリオの場合(60,000円(税込)) |
 | 価格 | 4の大型のメス単品の場合(25,000円(税込)) |
 | 価格 | 5の大型のメス単品の場合(25,000円(税込)) |
 | 価格 | 4,5の組み合わせのメスセットの場合(45,000円(税込)) |
-
-※取っておこうと思っていたオスの調子があまり良くなく見え、死亡した場合、オスが一匹になってしまうため、3番のオスの販売を一旦取りやめております。  
 
 駆虫などのトリートメントを実施済みである事や、1年半以上飼育している長期飼育個体のため、そういう意味だとお得だと思います。  
 導入初期のトリートメントが難しく、ある程度の期間日本の環境に慣らす事が出来ないと長期飼育が難しくなる本種ですが、  
@@ -39,7 +37,7 @@
 
 <!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 2 (モリセオレガメで購入したがホームセオレガメになった5号) <a href="https://t.co/zHMXtnZIIw">pic.twitter.com/zHMXtnZIIw</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577531870962941952?ref_src=twsrc%5Etfw">October 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-### 3 ~~オス・甲長約18cm~~ 販売取りやめ中。
+### 3 オス・甲長約18cm
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 3 (モリセオレガメ で購入したがホームセオレガメだった7号) <a href="https://t.co/H4Spml5pad">pic.twitter.com/H4Spml5pad</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577973525570125824?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
