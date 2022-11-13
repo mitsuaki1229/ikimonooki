@@ -6,7 +6,6 @@
 相場前後〜で買い取りますのでご相談&価格交渉ください。
 
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
-* スペングラーヤマガメ ベトナム オス(Geoemyda spengleri)
 * スペインイシガメ(Mauremys leprosa leprosa)
 * モロッコイシガメ メス(Mauremys leprosa saharica)
 
