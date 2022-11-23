@@ -14,7 +14,7 @@ categories: Information
 * ~~[キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)~~
 * [ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)
 * ~~[スペングラーヤマガメ(Geoemyda spengleri)](/shopping/creatures/geoemyda-spengleri)~~
-* [ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)
+* ~~[ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)~~
 
 詳しくは[Shopping](https://ikimonooki.com/shopping/)のページをご覧下さい。
 

@@ -7,7 +7,6 @@
 
 * [ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)
 * [ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)
-* [ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)
 
 興味のある方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
 それか[ツイッター経由](https://twitter.com/ikimonooki)のほうが早いかも。
@@ -24,3 +23,4 @@
 * ~~[キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)~~
 * ~~ヌマヨコクビガメ(Pelomedusa subrufa)~~
 * ~~[スペングラーヤマガメ(Geoemyda spengleri)](/shopping/creatures/geoemyda-spengleri)~~
+* ~~[ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)~~
