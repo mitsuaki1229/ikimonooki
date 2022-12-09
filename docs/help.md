@@ -69,6 +69,7 @@ permalink: /help/
 #### クレジットカード決済
 
 Visa / Mastercard(R) / UnionPay（銀聯）  
+JCB/American Express/Diners Club/Discover  
 ※クレジットカード決済は対面販売時のみとなります。
 
 ## 資格・免許
