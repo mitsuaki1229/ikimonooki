@@ -38,7 +38,8 @@ permalink: /help/
 
 ### お支払い方法
 
-下記いずれかのお支払い方法を選択いただけます。
+下記いずれかのお支払い方法を選択いただけます。  
+※非対面取引時は銀行振込のみご利用頂けます。
 
 #### 銀行振込
 
@@ -64,13 +65,14 @@ permalink: /help/
 
 #### 現金払い
 
-※現金払いは対面販売時一括払いのみとなります。
-
 #### クレジットカード決済
 
 Visa / Mastercard(R) / UnionPay（銀聯）  
 JCB/American Express/Diners Club/Discover  
-※クレジットカード決済は対面販売時のみとなります。
+
+#### QRコード決済
+
+Alipay+/WeChat Pay/UnionPay
 
 ## 資格・免許
 
