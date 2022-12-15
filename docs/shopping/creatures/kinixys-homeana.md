@@ -37,7 +37,7 @@
 
 <!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 2 (モリセオレガメで購入したがホームセオレガメになった5号) <a href="https://t.co/zHMXtnZIIw">pic.twitter.com/zHMXtnZIIw</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577531870962941952?ref_src=twsrc%5Etfw">October 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-### ~~3 オス・甲長約18cm~~ 販売終了しました。
+### ~~3 オス・甲長約18cm~~ 販売中止中。
 
 <!-- <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BB%E3%82%AA%E3%83%AC%E3%82%AC%E3%83%A1?src=hash&amp;ref_src=twsrc%5Etfw">#ホームセオレガメ</a> 3 (モリセオレガメ で購入したがホームセオレガメだった7号) <a href="https://t.co/H4Spml5pad">pic.twitter.com/H4Spml5pad</a></p>&mdash; うさ@いきものおき (@ikimonooki) <a href="https://twitter.com/ikimonooki/status/1577973525570125824?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
