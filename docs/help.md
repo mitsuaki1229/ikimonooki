@@ -70,10 +70,6 @@ permalink: /help/
 Visa / Mastercard(R) / UnionPay（銀聯）  
 JCB/American Express/Diners Club/Discover  
 
-#### QRコード決済
-
-Alipay+/WeChat Pay/UnionPay
-
 ## 資格・免許
 
 ### 動物取扱業
