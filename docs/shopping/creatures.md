@@ -6,10 +6,13 @@
 ## 販売中
 
 * [ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)
-* [ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)
 
 興味のある方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
 それか[ツイッター経由](https://twitter.com/ikimonooki)のほうが早いかも。
+
+## 長期取り置き中
+
+* [ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)
 
 ## 販売終了
 
