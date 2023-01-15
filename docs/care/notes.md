@@ -87,6 +87,8 @@
         - 暖突をメタルラックにフックで引っ掛ける際に利用しているバーベキュー網:ダイソー 焼き網<角型> 27cmx27cm
     - [みどり商会 暖突 57W L サイズ](https://amzn.to/3tCgYGU)
     - イノマタ化学株式会社 品番:5090 マグネットポケット スポイトやノギスをしまうのに使っている。
+* カメの移動に便利
+    - キャンドゥの刺繍Wメッシュ洗濯ネット 平型
 * 外来生物法に伴う特定外来生物の飼養等許可申請
     - [ミステリークレイフィッシュ](https://www.env.go.jp/nature/intro/2outline/attention/gairaizarigani.html)
         - [飼養等に関する手続き](https://www.env.go.jp/nature/intro/1law/shiyou/tetsuduki.html)
