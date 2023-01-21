@@ -10,9 +10,9 @@ categories: Information
 ※物によっては相場より安めにしているので、他の店舗にここでの価格を見せつつ、交渉するような事はご遠慮いただけますと。  
 
 * ~~[モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)~~
-* [ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)
+* ~~[ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)~~
 * ~~[キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)~~
-* [ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)
+* ~~[ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)~~
 * ~~[スペングラーヤマガメ(Geoemyda spengleri)](/shopping/creatures/geoemyda-spengleri)~~
 * ~~[ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)~~
 
