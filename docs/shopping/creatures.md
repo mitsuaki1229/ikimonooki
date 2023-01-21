@@ -5,7 +5,11 @@
 
 ## 販売中
 
-* [ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)
+下記も条件によっては販売可能です。興味ある方はお問い合わせ下さい。
+
+* モロッコイシガメトリオ(アダルトオス2・アダルトメス1)
+* スペインイシガメペア(サブアダルトオス1・アダルトメス1)
+* チュニジアチチュウカイリクガメ(アダルトオス1・アダルトメス1)
 
 興味のある方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
 それか[ツイッター経由](https://twitter.com/ikimonooki)のほうが早いかも。
@@ -27,3 +31,4 @@
 * ~~ヌマヨコクビガメ(Pelomedusa subrufa)~~
 * ~~[スペングラーヤマガメ(Geoemyda spengleri)](/shopping/creatures/geoemyda-spengleri)~~
 * ~~[ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)~~
+* ~~[ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)~~
