@@ -15,10 +15,6 @@
 興味のある方は、[Help](https://ikimonooki.com/help/)に記載された連絡先から問い合わせお願いします。
 それか[ツイッター経由](https://twitter.com/ikimonooki)のほうが早いかも。
 
-## 長期取り置き中
-
-* [ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)
-
 ## 販売終了
 
 * ~~[クロスサンカクヘビ(Limaformosa crossi)](/shopping/creatures/limaformosa-crossi)~~
@@ -33,3 +29,4 @@
 * ~~[スペングラーヤマガメ(Geoemyda spengleri)](/shopping/creatures/geoemyda-spengleri)~~
 * ~~[ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)~~
 * ~~[ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)~~
+* ~~[ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)~~
