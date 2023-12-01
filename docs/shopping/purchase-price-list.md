@@ -7,6 +7,7 @@
 
 * キレナイカギリシャリクガメ(Testudo graeca cyrenaica) アダルトオスx2 アダルトメスx1
 * パンケーキリクガメ(Malacochersus tornieri) アダルトオスx1 アダルトメスx1
+* ソマリアリクガメ(Stigmochelys pardalis somalica) オスx1
 
 また、タイミング的に飼育スロットが埋まっている場合や、必要な種類を既に入手するなどしていた場合、  
 購入時の生体の種類の組み合わせなどでは、お断りする事もありますのでご了承ください。  
