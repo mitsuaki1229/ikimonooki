@@ -5,7 +5,7 @@
 下記に関しては、個体の状態や買取後の維持条件(今後手放して良いのかどうか等)にもよりますが、  
 相場前後〜で買い取りますのでご相談&価格交渉ください。
 
-* キレナイカギリシャリクガメ(Testudo graeca cyrenaica) アダルトオスx2 アダルトメスx1
+* キレナイカギリシャリクガメ(Testudo graeca cyrenaica) オスx1
 * パンケーキリクガメ(Malacochersus tornieri) アダルトオスx1 アダルトメスx1
 * ソマリアリクガメ(Stigmochelys pardalis somalica) オスx1
 
