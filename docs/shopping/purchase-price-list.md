@@ -6,7 +6,7 @@
 相場前後〜で買い取りますのでご相談&価格交渉ください。
 
 * キレナイカギリシャリクガメ(Testudo graeca cyrenaica) オスx1
-* パンケーキリクガメ(Malacochersus tornieri) アダルトオスx1 アダルトメスx1
+* パンケーキリクガメ(Malacochersus tornieri) CBオスx1 CBメスx1
 * ソマリアリクガメ(Stigmochelys pardalis somalica) オスx1
 
 また、タイミング的に飼育スロットが埋まっている場合や、必要な種類を既に入手するなどしていた場合、  
