@@ -8,6 +8,14 @@
 
 * [ニシベルセオレガメ(ニシアフリカセオレガメ)(Kinixys belliana nogueyi)](/shopping/creatures/kinixys-belliana-nogueyi)
 
+## 調整中
+
+冬眠中につき調整中
+
+* チチュウカイイシガメ
+  - スペインイシガメ
+  - モロッコイシガメ
+
 ## 販売・頒布・里親募集終了
 
 * ~~[クロスサンカクヘビ(Limaformosa crossi)](/shopping/creatures/limaformosa-crossi)~~
