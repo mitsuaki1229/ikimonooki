@@ -22,6 +22,11 @@ permalink: /help/
 
 * 現在は[ブリーディングローン](/help/breeding-loan)として、生体を預かる形で運用しています。
 
+## 各種代行
+
+* [購入代行](/help/purchase-agency)をお読みください。
+* [受取代行](/help/receiving-agency)をお読みください。
+
 ## 特定商取引法に基づく表記
 
 |||
