@@ -6,11 +6,11 @@
 
 ## 販売中
 
-* [ニシベルセオレガメ(ニシアフリカセオレガメ)(Kinixys belliana nogueyi)](/shopping/creatures/kinixys-belliana-nogueyi)
+なし。
 
 ## 調整中
 
-冬眠中につき調整中
+冬眠中につき下記調整中
 
 * チチュウカイイシガメ
   - スペインイシガメ
@@ -34,3 +34,4 @@
 * ~~ミシシッピアカミミガメアルビノパステルライン~~
 * ~~ホームセオレガメ(アダルトオス3・アダルトメス4)~~
 * ~~チュニジアチチュウカイリクガメ(アダルトオス1・アダルトメス1)~~
+* ~~[ニシベルセオレガメ(ニシアフリカセオレガメ)(Kinixys belliana nogueyi)](/shopping/creatures/kinixys-belliana-nogueyi)~~

@@ -7,6 +7,7 @@
 ### 生体
 
 * ソマリアリクガメ(Stigmochelys pardalis somalica) オスx1 買取価格はサイズによって相場くらいで。
+* パンケーキガメ(Pancake tortoise) オスx1 メスx1 交渉ください。
 * モリアオガエル(Zhangixalus arboreus) 神奈川県産 迷彩柄 オスx2 1匹 5,000円 〜 柄によって。
 * セトウチサンショウウオ(Hynobius setouchi) 和歌山県産 法律上買取は出来ないので引取か僕の増やしたセトウチサンショウウオCBとの交換になります。
 
