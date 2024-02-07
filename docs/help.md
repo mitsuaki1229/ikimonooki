@@ -64,7 +64,12 @@ permalink: /help/
 #### クレジットカード決済
 
 Visa / Mastercard(R) / UnionPay（銀聯）  
-JCB/American Express/Diners Club/Discover  
+JCB / American Express / Diners Club/Discover  
+
+#### QRコード決済
+
+Alipay+ / WeChat Pay（微信支付） / UnionPay（銀聯） / COIN+ / d払い  
+PayPay / auPay / 楽天ペイ / J-Coin Pay / Smart Code
 
 ## 資格・免許
 
