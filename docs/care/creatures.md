@@ -19,9 +19,9 @@
 * ソマリアリクガメ(Stigmochelys pardalis babcocki)
     - [ソマリアリクガメを購入してから死ぬまでの237日の記録~リクガメにイカの甲羅は危ないから使うのやめた方が良いかも~](https://note.com/ikimonooki/n/ncac36e7b6a86)
 * パンケーキリクガメ(Malacochersus tornieri)
-* [ニシベルセオレガメ(Kinixys belliana)](kinixys/belliana)
-* [ホームセオレガメ(Kinixys homeana)](kinixys/homeana)
-* [モリセオレガメ(Kinixys erosa)](kinixys/erosa)
+* [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys/belliana.md)
+* [ホームセオレガメ(Kinixys homeana)](creatures/kinixys/homeana.md)
+* [モリセオレガメ(Kinixys erosa)](creatures/kinixys/erosa.md)
 * ソリガメ(Chersina angulata)
 
 ##### ヤマガメ・ハコガメ
@@ -36,12 +36,12 @@
 * ヌマヨコクビガメ(Pelomedusa subrufa)
     - 冬場、産地にもよると思うが、半冬眠状態で飼育出来ていた。
 * エリトリアヌマヨコクビガメ(Pelomedusa olivacea)
-* [クリイロハコヨコクビガメ(Pelusios castaneus)](pelusios-castaneus)
+* [クリイロハコヨコクビガメ(Pelusios castaneus)](creatures/pelusios-castaneus.md)
 * オカバンゴハコヨコクビガメ(Pelusios bechuanicus)
-* [スペインイシガメ(Mauremys leprosa leprosa)](mauremys-leprosa-leprosa)
+* [スペインイシガメ(Mauremys leprosa leprosa)](creatures/mauremys-leprosa-leprosa.md)
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * モロッコイシガメ(Mauremys leprosa ssp.)
-* [バルカンヌマガメ(Emys orbicularis hellenica)](emys-orbicularis-hellenica)
+* [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)
 * ミシシッピニオイガメ(Sternotherus odoratus)
 * ミシシッピアカミミガメ(ミドリガメ)(Trachemys scripta elegans)
 * クサガメ(Mauremys reevesii)
@@ -78,7 +78,7 @@
 * トッケイヤモリ(Gekko gecko)
 * ブルークスナキヤモリ(Hemidactylus brookii)
 * ホオグロヤモリ(Hemidactylus frenatus)
-* [クラカケカベヤモリ(Tarentola ephippiata)](tarentola-ephippiata)
+* [クラカケカベヤモリ(Tarentola ephippiata)](creatures/tarentola-ephippiata.md)
 * オガサワラヤモリ(Lepidodactylus lugubris)
 * ニホンヤモリ(Gekko japonicus)
 * アフリカ産ヤモリ
@@ -87,9 +87,9 @@
 #### ヘビ
 
 * カリフォルニアキングスネーク(Lampropeltis californiae)
-* [アフリカンハウススネーク(Boaedon fuliginosus)](boaedon-fuliginosus)
+* [アフリカンハウススネーク(Boaedon fuliginosus)](creatures/boaedon-fuliginosus.md)
 * サビイロクチバシヘビ(Rhamphiophis oxyrhynchus)
-* [クロスサンカクヘビ(Limaformosa crossi)](limaformosa-crossi)
+* [クロスサンカクヘビ(Limaformosa crossi)](creatures/limaformosa-crossi.md)
 * ヘラルドスネーク(Crotaphopeltis hotamboeia)
 * アオダイショウ(Elaphe climacophora)
 * シマヘビ(Elaphe quadrivirgata)
@@ -103,10 +103,9 @@
 ### 両生類
 
 * サンショウウオSP(Hynobius sp.)
-* [カスミサンショウウオ(Hynobius nebulosus)](hynobius-nebulosus)
+* [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus.md)
 * トウホクサンショウウオ(Hynobius lichenatus)
-* [トウキョウサンショウウオ(Hynobius tokyoensis)](hynobius-tokyoensis)
-* エゾサンショウウオ(Hynobius retardatus)
+* [トウキョウサンショウウオ(Hynobius tokyoensis)](creatures/hynobius-tokyoensis.md)
 * イシヅチサンショウウオ(Hynobius hirosei)
 * クロサンショウウオ(Hynobius nigrescens)
 * セトウチサンショウウオ(Hynobius setouchi)
@@ -117,11 +116,9 @@
 * アフリカウシガエル(Pyxicephalus adspersus)
 * アジアウキガエル(Occidozyga lima)
 * ヤマアカガエル(Rana ornativentris)
-* エゾアカガエル(Rana pirica)
 * アカハライモリ(Cynops pyrrhogaster)
 * ニホンヒキガエル(Bufo japonicus)
 * ムシクイオオクサガエル(Leptopelis vermiculatus)
-* ワンガンオオクサガエル(Leptopelis spiritusnoctis)
 * クサガエルSP
 
 ### 昆虫
@@ -130,7 +127,7 @@
 * シャイニーバロースコーピオン(Opistophthalmus glabrifrons)
 * マダガスカルコックローチ(Gromphadorhina portentosa)
 * デュビア(Blaptica dubia)
-* [レッドローチ(Shelfordella lateralis)](shelfordella-lateralis)
+* [レッドローチ(Shelfordella lateralis)](creatures/shelfordella-lateralis.md)
 * フタホシコオロギ(Gryllus bimaculatus)
 * ジャイアントミルワーム(Zophobas morio)
 * ミルワーム
@@ -174,9 +171,9 @@
 
 ### 貝
 
-* [オオギセルガイ(Megalophaedusa martensi)](megalophaedusa-martensi)
-* [ミカドギセルガイ(Tyrannophaedusa mikado)](tyrannophaedusa-mikado)
-* [ツムガタギセルガイ(Hemiphaedusa pinguis)](hemiphaedusa-pinguis)
+* [オオギセルガイ(Megalophaedusa martensi)](creatures/megalophaedusa-martensi.md)
+* [ミカドギセルガイ(Tyrannophaedusa mikado)](creatures/tyrannophaedusa-mikado.md)
+* [ツムガタギセルガイ(Hemiphaedusa pinguis)](creatures/hemiphaedusa-pinguis.md)
 * カタツムリSP(和歌山)
 * ヤンバルマイマイ
 * ヘソアキコベソマイマイ
@@ -193,6 +190,5 @@
 * オトシンクルス
 * 錦鯉
 * ドジョウ
-* ナガレホトケドジョウ
 * 金魚(Carassius auratus)
 * メダカ
