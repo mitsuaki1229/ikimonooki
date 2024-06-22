@@ -11,21 +11,21 @@ permalink: /help/
 
 ## 買取方法
 
-* [募集](/shopping/purchase-price-list)している種類に関しては、個体の状態や買取後の維持条件(今後手放して良いのかどうか等)にもよりますが、相場前後〜で買取しています。
+* [募集](shopping/purchase-price-list.md)している種類に関しては、個体の状態や買取後の維持条件(今後手放して良いのかどうか等)にもよりますが、相場前後〜で買取しています。
 * 上記以外に関してもご相談頂ければできる範囲で考えます。
 
 ## 貸出し方法
 
-* 現在は[ブリーディングローン](/help/breeding-loan)として、知人に生体を貸し出す形で運用しています。
+* 現在は[ブリーディングローン](help/breeding-loan.md)として、知人に生体を貸し出す形で運用しています。
 
 ## 預かり方法
 
-* 現在は[ブリーディングローン](/help/breeding-loan)として、生体を預かる形で運用しています。
+* 現在は[ブリーディングローン](help/breeding-loan.md)として、生体を預かる形で運用しています。
 
 ## 各種代行
 
-* [購入代行](/help/purchase-agency)をお読みください。
-* [受取代行](/help/receiving-agency)をお読みください。
+* [購入代行](help/purchase-agency.md)をお読みください。
+* [受取代行](help/receiving-agency.md)をお読みください。
 
 ## 特定商取引法に基づく表記
 
@@ -33,10 +33,10 @@ permalink: /help/
 | ------- | ------- |
 | 販売主 | ikimonooki |
 | 販売・動物取扱責任者 | [Mitsuaki Ihara](https://about.me/mitsuaki1229) |
-| 所在地 | 神奈川県茅ヶ崎市([来訪予約制](/help/about-reservation-to-come-to-ikimonooki)) |
+| 所在地 | 神奈川県茅ヶ崎市([来訪予約制](help/about-reservation-to-come-to-ikimonooki.md)) |
 | 連絡先 | [Twitter@ikimonooki](https://twitter.com/ikimonooki)<br>[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSciDNlaG6wREvk-JSGTqiDJhya-Tsjt9Lu2RXWX-ah64RjwEA/viewform) |
 | 商品代金以外の必要金額 | 送料<br>お振込み手数料お客様ご負担 |
-| 売約について | [こちらを参照ください](/help/sales-contract) |
+| 売約について | [こちらを参照ください](help/sales-contract.md) |
 | お申込み有効期限 | ご注文日を含めて14日間 |
 | 商品引渡し時期 | ご入金確認後、3日以内に発送 |
 | 商品引渡し方法 | 対面販売が必要な生体:手渡し<br>上記以外:ゆうパックもしくはヤマト運輸で発送<br>([※宅急便での生体輸送はゆうパックのみになります](https://twitter.com/ikimonooki/status/1580355720541007872?s=20&t=QO05ve8vz6uF9NDmsE9TFQ)) |

@@ -10,6 +10,6 @@ permalink: /care/
 この通り飼育しても上手くいくとは限りません。
 参考までにお願いします。
 
-* [Creatures](/care/creatures)
-* [Plants](/care/plants)
-* [Notes](/care/notes)
+* [Creatures](care/creatures.md)
+* [Plants](care/plants.md)
+* [Notes](care/notes.md)

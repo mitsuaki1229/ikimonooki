@@ -16,20 +16,20 @@
 
 ## 販売・頒布・里親募集終了
 
-* ~~[クロスサンカクヘビ(Limaformosa crossi)](/shopping/creatures/limaformosa-crossi)~~
-* ~~[クラカケカベヤモリ(Tarentola ephippiata)](/shopping/creatures/tarentola-ephippiata)~~
-* ~~[バルカンヌマガメ(Emys orbicularis hellenica)](/shopping/creatures/emys-orbicularis-hellenica)~~
-* ~~[アオダイショウ(Elaphe climacophora)](/shopping/creatures/elaphe-climacophora)~~
-* ~~[ガルフコーストハコガメ(Terrapene carolina major)](/shopping/creatures/terrapene-carolina-major)~~
+* ~~[クロスサンカクヘビ(Limaformosa crossi)](creatures/limaformosa-crossi.md)~~
+* ~~[クラカケカベヤモリ(Tarentola ephippiata)](creatures/tarentola-ephippiata.md)~~
+* ~~[バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)~~
+* ~~[アオダイショウ(Elaphe climacophora)](creatures/elaphe-climacophora.md)~~
+* ~~[ガルフコーストハコガメ(Terrapene carolina major)](creatures/terrapene-carolina-major.md)~~
 * ~~オカバンゴハコヨコクビガメ(Pelusios bechuanicus)~~
-* ~~[モリセオレガメ(Kinixys erosa)](/shopping/creatures/kinixys-erosa)~~
-* ~~[キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](/shopping/creatures/testudo-graeca-cyrenaica)~~
+* ~~[モリセオレガメ(Kinixys erosa)](creatures/kinixys-erosa.md)~~
+* ~~[キレナイカギリシャリクガメ(Testudo graeca cyrenaica)](creatures/testudo-graeca-cyrenaica.md)~~
 * ~~ヌマヨコクビガメ(Pelomedusa subrufa)~~
-* ~~[スペングラーヤマガメ(Geoemyda spengleri)](/shopping/creatures/geoemyda-spengleri)~~
-* ~~[ヒダサンショウウオ(Hynobius kimurae)](/shopping/creatures/hynobius-kimurae)~~
-* ~~[ホームセオレガメ(Kinixys homeana)](/shopping/creatures/kinixys-homeana)~~
-* ~~[ソリガメ(Chersina angulata)](/shopping/creatures/chersina-angulata)~~
+* ~~[スペングラーヤマガメ(Geoemyda spengleri)](creatures/geoemyda-spengleri.md)~~
+* ~~[ヒダサンショウウオ(Hynobius kimurae)](creatures/hynobius-kimurae.md)~~
+* ~~[ホームセオレガメ(Kinixys homeana)](creatures/kinixys-homeana.md)~~
+* ~~[ソリガメ(Chersina angulata)](creatures/chersina-angulata.md)~~
 * ~~ミシシッピアカミミガメアルビノパステルライン~~
 * ~~ホームセオレガメ(アダルトオス3・アダルトメス4)~~
 * ~~チュニジアチチュウカイリクガメ(アダルトオス1・アダルトメス1)~~
-* ~~[ニシベルセオレガメ(ニシアフリカセオレガメ)(Kinixys belliana nogueyi)](/shopping/creatures/kinixys-belliana-nogueyi)~~
+* ~~[ニシベルセオレガメ(ニシアフリカセオレガメ)(Kinixys belliana nogueyi)](creatures/kinixys-belliana-nogueyi.md)~~

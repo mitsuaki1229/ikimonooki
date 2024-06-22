@@ -6,7 +6,7 @@ permalink: /shopping/
 
 販売ページです。  
 
-* [爬虫類・両生類の販売ページへ移動](/shopping/creatures)
+* [爬虫類・両生類の販売ページへ移動](shopping/creatures.md)
 
 <!-- 
 * [Books](/shopping/books)
