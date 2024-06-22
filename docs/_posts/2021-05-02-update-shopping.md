@@ -17,10 +17,10 @@ categories: Information
 * [クロスサンカクヘビ(Limaformosa crossi)](/shopping/creatures/limaformosa-crossi)
 * [クラカケカベヤモリ(Tarentola ephippiata)](/shopping/creatures/tarentola-ephippiata)
 
-詳しくは[Shopping](https://ikimonooki.com/shopping/)のページをご覧下さい。
+詳しくは[Shopping](/shopping/)のページをご覧下さい。
 
 興味がお有りの場合、
-[Help](https://ikimonooki.com/help/)に記載された連絡先からご連絡頂ければと思います。
+[Help](/help/)に記載された連絡先からご連絡頂ければと思います。
 
 第一種動物取扱業をお持ちの方には、登録番号をお知らせくだされば発送も可能ですが、  
 上記以外の場合は対面販売が必須になる&本業の関係上応対出来るタイミングが限られているため、  

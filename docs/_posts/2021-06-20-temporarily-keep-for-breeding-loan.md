@@ -7,7 +7,7 @@ categories: Information
 
 [色々と起きた](https://note.com/mitsuaki1229/n/na6774ad225e1)ので、今後は様々な対応に関して、契約を交わす方針に変更致しましたのと。  
 新規で他の方から[ブリーディングローン](/help/breeding-loan)の預かりを依頼されたのもあり、  
-[生体預かり契約書](https://ikimonooki.com/storage/pet_sitting/contract)を作成しました。  
+[生体預かり契約書](/storage/pet_sitting/contract)を作成しました。  
 今後は、ブリーディングローン(預かり)に関して、上記契約を交わして頂く形になります。
 
 また、上記に伴い、今までブリーディングローン(預かり)に関しては、知人限定で実施していましたが、  
