@@ -33,3 +33,6 @@
 * ~~ホームセオレガメ(アダルトオス3・アダルトメス4)~~
 * ~~チュニジアチチュウカイリクガメ(アダルトオス1・アダルトメス1)~~
 * ~~[ニシベルセオレガメ(ニシアフリカセオレガメ)(Kinixys belliana nogueyi)](creatures/kinixys-belliana-nogueyi.md)~~
+* ~~モリアオガエル(Zhangixalus arboreus)~~
+* ~~エゾアカガエル(Rana pirica)~~
+* ~~エゾサンショウウオ(Hynobius retardatus)~~
