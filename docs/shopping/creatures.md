@@ -6,11 +6,7 @@
 
 ## 販売中
 
-### 調整中
-
-冬眠中につき下記調整中
-
-* チチュウカイイシガメ
+* チチュウカイイシガメ ※セット販売のみ 25万
   - スペインイシガメ
   - モロッコイシガメ
 
@@ -36,3 +32,4 @@
 * ~~モリアオガエル(Zhangixalus arboreus)~~
 * ~~エゾアカガエル(Rana pirica)~~
 * ~~エゾサンショウウオ(Hynobius retardatus)~~
+* ~~ソマリアリクガメ(Stigmochelys pardalis "somalica")~~
