@@ -23,6 +23,7 @@
 * [ホームセオレガメ(Kinixys homeana)](creatures/kinixys/homeana.md)
 * [モリセオレガメ(Kinixys erosa)](creatures/kinixys/erosa.md)
 * ソリガメ(Chersina angulata)
+* アルダブラゾウガメ(Aldabrachelys gigantea)
 
 ##### ヤマガメ・ハコガメ
 
@@ -109,6 +110,7 @@
 * イシヅチサンショウウオ(Hynobius hirosei)
 * クロサンショウウオ(Hynobius nigrescens)
 * セトウチサンショウウオ(Hynobius setouchi)
+* エゾサンショウウオ(Ezo salamander)
 * ヒダサンショウウオ(Hynobius kimurae)
 * アマガエル(Dryophytes japonica)
 * モリアオガエル(Rhacophorus arboreus)
@@ -120,6 +122,7 @@
 * ニホンヒキガエル(Bufo japonicus)
 * ムシクイオオクサガエル(Leptopelis vermiculatus)
 * クサガエルSP
+* ワンガンオオクサガエル(Leptopelis spiritusnoctis)
 
 ### 昆虫
 
@@ -142,6 +145,11 @@
 * テキサスジャイアントビネガロン
 * ヨーロッパイエコオロギ(Acheta domesticus)
 * ハニーワーム(Galleria mellonella)
+* メンガタメリー(Homoderus mellyi)
+* カブトムシ(Trypoxylus dichotomus)
+* コクワガタ(Dorcus rectus)
+* ノコギリクワガタ(Prosopocoilus inclinatus)
+* ヒラタクワガタ(Dorcus titanus)
 
 ### 甲殻類
 
