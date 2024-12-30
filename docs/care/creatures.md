@@ -39,14 +39,15 @@
 * エリトリアヌマヨコクビガメ(Pelomedusa olivacea)
 * [クリイロハコヨコクビガメ(Pelusios castaneus)](creatures/pelusios-castaneus.md)
 * オカバンゴハコヨコクビガメ(Pelusios bechuanicus)
+* [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)
 * [スペインイシガメ(Mauremys leprosa leprosa)](creatures/mauremys-leprosa-leprosa.md)
 * モロッコイシガメ(Mauremys leprosa marokkensis)
 * モロッコイシガメ(Mauremys leprosa ssp.)
-* [バルカンヌマガメ(Emys orbicularis hellenica)](creatures/emys-orbicularis-hellenica.md)
+* キボシイシガメ(Clemmys guttata)
+* ニホンイシガメ(Mauremys japonica)
+* クサガメ(Mauremys reevesii)
 * ミシシッピニオイガメ(Sternotherus odoratus)
 * ミシシッピアカミミガメ(ミドリガメ)(Trachemys scripta elegans)
-* クサガメ(Mauremys reevesii)
-* ニホンイシガメ(Mauremys japonica)
 * セネガルフタスッポン(Cyclanorbis senegalensis)
 
 #### トカゲ
@@ -75,6 +76,7 @@
 * ヒナタヨロイトカゲ(Cordylus tropidosternum)
 * ゲイリートゲオアガマ(Uromastyx geyri)
 * シュナイダースキンク(Eumeces schneiderii)
+* アコンティアス(Acontias percivali)
 * ニシアフリカトカゲモドキ(Hemitheconyx caudicinctus)
 * トッケイヤモリ(Gekko gecko)
 * ブルークスナキヤモリ(Hemidactylus brookii)
@@ -121,40 +123,41 @@
 * アカハライモリ(Cynops pyrrhogaster)
 * ニホンヒキガエル(Bufo japonicus)
 * ムシクイオオクサガエル(Leptopelis vermiculatus)
-* クサガエルSP
 * ワンガンオオクサガエル(Leptopelis spiritusnoctis)
+* クサガエルSP
 
 ### 昆虫
 
 * ポーセリンローチ(Gyna caffrorum)
-* シャイニーバロースコーピオン(Opistophthalmus glabrifrons)
 * マダガスカルコックローチ(Gromphadorhina portentosa)
 * デュビア(Blaptica dubia)
 * [レッドローチ(Shelfordella lateralis)](creatures/shelfordella-lateralis.md)
-* フタホシコオロギ(Gryllus bimaculatus)
-* ジャイアントミルワーム(Zophobas morio)
-* ミルワーム
-* 蚕(Bombyx mori)
 * グレーター・ホーンド・バブーン(Ceratogyrus brachycephalus)
 * サウスアフリカ・ホーンド・バブーン(Ceratogyrus darlingi)
 * ウザンバラオレンジバブーン(Pterinochilus murinus)
 * チブサトゲグモ(Thelacantha brevispina)
 * タイコウチ(Laccotrephes japonensis)
-* ハイイロゲンゴロウ
-* アマミサソリモドキ
+* ハイイロゲンゴロウ(Eretes sticticus)
+* アマミサソリモドキ(Typopeltis stimpsonii)
 * テキサスジャイアントビネガロン
-* ヨーロッパイエコオロギ(Acheta domesticus)
-* ハニーワーム(Galleria mellonella)
+* シャイニーバロースコーピオン(Opistophthalmus glabrifrons)
 * メンガタメリー(Homoderus mellyi)
 * カブトムシ(Trypoxylus dichotomus)
 * コクワガタ(Dorcus rectus)
 * ノコギリクワガタ(Prosopocoilus inclinatus)
 * ヒラタクワガタ(Dorcus titanus)
+* タマムシ(Chrysochroa fulgidissima)
+* ヨーロッパイエコオロギ(Acheta domesticus)
+* ハニーワーム(Galleria mellonella)
+* フタホシコオロギ(Gryllus bimaculatus)
+* ジャイアントミルワーム(ツヤケシオオゴミムシダマシ)(Zophobas morio)
+* ミルワーム(コメノゴミムシダマシ)(Tenebrio obscurus)
+* 蚕(Bombyx mori)
 
 ### 甲殻類
 
 * ホソワラジムシ(Porcellionides pruinosus)
-* キルギスオオワラジムシ
+* キルギスオオワラジムシ(Porcellio sp)
 * ダンゴムシ
 * オカヤドカリ(Coenobita cavipes)
 * サワガニ(Geothelphusa dehaani)
@@ -163,31 +166,6 @@
 * ヤシガニ(Birgus latro)
 * ミステリークレイフィッシュ(Procambarus fallax forma virginalis)
 * アメリカザリガニ(Procambarus clarkii)
-
-### 哺乳類
-
-* ハツカネズミ
-* ハリネズミ
-* イエネコ
-* ラット
-* ジャンガリアンハムスター
-* キンクマハムスター
-
-### 鳥類
-
-* 九官鳥(Gracula religiosa)
-* 鶉
-* 鳩(Columbidae)
-
-### 貝
-
-* [オオギセルガイ(Megalophaedusa martensi)](creatures/megalophaedusa-martensi.md)
-* [ミカドギセルガイ(Tyrannophaedusa mikado)](creatures/tyrannophaedusa-mikado.md)
-* [ツムガタギセルガイ(Hemiphaedusa pinguis)](creatures/hemiphaedusa-pinguis.md)
-* カタツムリSP(和歌山)
-* ヤンバルマイマイ
-* ヘソアキコベソマイマイ
-* オキマイマイ
 
 ### 魚
 
@@ -199,6 +177,37 @@
 * ペンシルフィッシュ
 * オトシンクルス
 * 錦鯉
-* ドジョウ
 * 金魚(Carassius auratus)
 * メダカ
+* ドジョウ
+
+### 貝
+
+* [オオギセルガイ(Megalophaedusa martensi)](creatures/megalophaedusa-martensi.md)
+* [ミカドギセルガイ(Tyrannophaedusa mikado)](creatures/tyrannophaedusa-mikado.md)
+* [ツムガタギセルガイ(Hemiphaedusa pinguis)](creatures/hemiphaedusa-pinguis.md)
+* カタツムリSP(和歌山)
+* ヤンバルマイマイ
+* ヘソアキコベソマイマイ
+* オキマイマイ
+
+### 哺乳類
+
+* ハツカネズミ
+* ラット
+* ハリネズミ
+* ジャンガリアンハムスター
+* キンクマハムスター
+* イエネコ
+
+### 鳥類
+
+* 九官鳥(Gracula religiosa)
+* 鳩(Columbidae)
+* 鶉(Coturnix japonica)
+* 雀(Passer montanus)
+* 燕(Hirundo rustica)
+
+### その他
+
+* ミミズ
