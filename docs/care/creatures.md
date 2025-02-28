@@ -15,10 +15,12 @@
 * チェニジア地中海リクガメ(Testudo graeca nabeulensis)
 * リビア地中海リクガメ(Testudo graeca nabeulensis)
 * キレナイカギリシャリクガメ(Testudo graeca cyrenaica)
+    - [みどり商会のピタリ適温をそのまま敷いてたら火花散ってカメが感電した(かも)](https://note.com/ikimonooki/n/n41d778c58d67)
 * ニシヘルマンリクガメ(Testudo hermanni hermanni)
 * ソマリアリクガメ(Stigmochelys pardalis babcocki)
     - [ソマリアリクガメを購入してから死ぬまでの237日の記録~リクガメにイカの甲羅は危ないから使うのやめた方が良いかも~](https://note.com/ikimonooki/n/ncac36e7b6a86)
 * パンケーキリクガメ(Malacochersus tornieri)
+    - [パンケーキリクガメのマイクロチップが抜けていた](https://note.com/ikimonooki/n/n81d14b77fe04)
 * [ニシベルセオレガメ(Kinixys belliana)](creatures/kinixys/belliana.md)
 * [ホームセオレガメ(Kinixys homeana)](creatures/kinixys/homeana.md)
 * [モリセオレガメ(Kinixys erosa)](creatures/kinixys/erosa.md)
@@ -31,6 +33,7 @@
 * ガルフコーストハコガメ(Terrapene carolina major)
 * モエギハコガメ(Cuora galbinifrons)
 * スペングラーヤマガメ(Geoemyda spengleri)
+    - [スペングラーヤマガメの屋外飼育方法](https://note.com/ikimonooki/n/nc0ff66dcebdc)
 
 ##### ミズガメ
 
@@ -103,6 +106,7 @@
 * コーンスネーク(Pantherophis guttatus)
 * サキシママダラ(Dinodon rufozonatum walli)
 * アンゴラパイソン(Angolan python)
+    - [衣装ケースを使った蛇用ケージのDIY！材料・注意点・改善点まとめ](https://note.com/ikimonooki/n/n929759d01627)
 
 ### 両生類
 
