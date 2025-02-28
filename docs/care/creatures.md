@@ -26,6 +26,7 @@
 * [モリセオレガメ(Kinixys erosa)](creatures/kinixys/erosa.md)
 * ソリガメ(Chersina angulata)
 * アルダブラゾウガメ(Aldabrachelys gigantea)
+    - [アクアリウムバス運営のフィードオンから購入したツルツルアルダブラゾウガメの研磨疑惑の検証とまとめ](https://note.com/ikimonooki/n/nc94295f8ba37)
 
 ##### ヤマガメ・ハコガメ
 
@@ -213,6 +214,7 @@
 * 雀(Passer montanus)
 * 燕(Hirundo rustica)
 * ヨウム(Psittacus erithacus)
+    - [初めてのヨウム飼育：61万円で迎えた新たな家族](https://note.com/ikimonooki/n/naaf9886e58c7)
 
 ### その他
 
