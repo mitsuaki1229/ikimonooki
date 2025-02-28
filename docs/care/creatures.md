@@ -208,6 +208,7 @@
 * 鶉(Coturnix japonica)
 * 雀(Passer montanus)
 * 燕(Hirundo rustica)
+* ヨウム(Psittacus erithacus)
 
 ### その他
 
