@@ -102,6 +102,7 @@
 * ケニアサンドボア(Eryx colubrinus)
 * コーンスネーク(Pantherophis guttatus)
 * サキシママダラ(Dinodon rufozonatum walli)
+* アンゴラパイソン(Angolan python)
 
 ### 両生類
 
