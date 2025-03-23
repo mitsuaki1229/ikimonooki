@@ -326,6 +326,45 @@
 
 ### 過去育成履歴
 
+* Utricularia exoleta
+    - イトタヌキモ
+* Morus alba f. 'Minamisakari'
+    - 桑 みなみさかり
+* Morus alba f. 'Hayatesakari'
+    - 桑 はやてさかり
+* Viola x Wittrockiana
+    - よく咲くスミレ
+    - ブルーハワイ
+* Vaccinium oxycoccos
+    - ツルコケモモ
+    - クランベリー
+* Hedera helix 'Shirayukihime'
+    - ヘデラ 白雪姫
+* Sedum mexicanum 'Morimura'
+    - モリムラマンネングサ
+* Mentha spicata 'Moroccan'
+    - モロッコミント
+* Bolbitis heudelotii
+* Rhododendron sanctum var. lasiogynum
+    - エクスバリーアザレア
+    - ディレクターモーランド
+* Malva sylvestris
+    - コモンマロウ
+* Dichondra cf. repens
+* Lotus hirsutus 'Black Moohey'
+* Lecanopteris sp. "Yellow Tips"
+* Tillandsia boliviensis
+    - (Blue Flower,Bolivia)
+* Mandragora autumnalis
+    - tipwellで入手。
+* Schismatoglottis cf. chevron
+* Podangis dactyloceas
+    - West Africa
+* Euphorbia Obesa f. monstruosa
+* Selaginella cf. rossii
+    - 針金かずら
+* Lepidium sativum
+    - つるなしクレソン
 * Pseudolithos cubiformis
 * Stephanotis floribunda
     - マダガスカルジャスミン
@@ -385,6 +424,7 @@
     - 石垣島に生息しているモンステラみたいな植物
 * Epipremnum pinnatum 'Global Green'
     - ポトス グローバルグリーン
+* Epipremnum pinnatum 'Lime'
 * Cyclamen persicum mini
     - ミニシクラメン
 * Cyclamen hederifolium
@@ -410,8 +450,14 @@
 * Drosera aliciae
 * Drosera madagascariensis
 * Drosera capensis
+* Drosera capensis f. broad leaf
 * Drosera tokaiensis
 * Drosera spatulata var. lovellae
+* Drosera spec. Pretty Rosette
+    - South Africa
+    - BCP ID# S157
+* Drosera burkeana
+    - ヨハネスブルグ産
 * Lamium maculatum
 * Streptocarpus saxorum
 * Bulbophyllum japonicum
@@ -437,8 +483,9 @@
     - ユーフォルビア・デビリスピナ
 * Euphorbia schizacantha
     - ユーフォルビア・シザカンサ
-* Lysionotus pauciflorus
+* Lysionotus pauciflorus Maxim
     - シシンラン
+    - 宮城県産
 * Acacia tortilis
     - サバンナ・アカシア
     - 水切れで枯らしてしまった...。
