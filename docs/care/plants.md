@@ -67,7 +67,7 @@
     - ボスウェリア ネグレクタ
     - ソマリア産など産地によって幹の雰囲気が違う。
     - USDA Hardiness Zones 10a - 11
-* Chamaerops humilis
+* Chamaerops humilis var. cerifera
     - チャメロップス フミリス セリフェラ
     - USDA Hardiness Zones 8b - 11
 * Cyphostemma juttae
@@ -88,6 +88,7 @@
     - USDA Hardiness Zones 10b - 11b
 * Dorstenia foetida
     - ドルステニア・フォエチダ
+    - ギザ葉
     - 耐寒性:寒さに弱い、休眠中も多少の水やりが必要との記載あり。
     - USDA Hardiness Zones 10
 * Dioscorea elephantipes
@@ -149,7 +150,7 @@
     - 子宝
     - 南アフリカの東南部、ナタール地方
     - USDA Hardiness Zones 9 - 11
-* Gasteria Flow
+* Gasteria 'Flow'
     - ガステリアとアロエのハイブリッド
     - 屋外の軒下で冬期管理出来ているが、株はあまり大きくならない。
     - USDA Hardiness Zones 9b - 11b
@@ -311,10 +312,6 @@
 * Sarcocaulon vanderietiae
     - サルコカウロン：バンデルリチアエ(竜骨扇)
     - USDA Hardiness Zones 10b - 11b
-* Stephanotis floribunda
-    - マダガスカルジャスミン
-    - USDA Hardiness Zones 10a - 11
-    - カイガラムシがつきやすい。
 * Tylecodon pearsonii
     - チレコドン・ペアルソニー
     - USDA Hardiness Zones 9b - 11b
@@ -329,6 +326,22 @@
 
 ### 過去育成履歴
 
+* Pseudolithos cubiformis
+* Stephanotis floribunda
+    - マダガスカルジャスミン
+    - USDA Hardiness Zones 10a - 11
+    - カイガラムシがつきやすい。
+* Angraecum leonis
+* Begonia × hiemalis
+    - エラチオール・ベゴニア
+* Viola hederacea
+    - banksiiだったかも。
+* Asplenium nidus 'Osaka'
+* Polypodium
+    - 南米産
+* Monadenium ritchiei f. variegata
+* Monilaria moniliformis
+* Athyrium otophorum var. okanum
 * Rhododendron pulchrum
     - ツツジ
     - 彩香
@@ -336,13 +349,18 @@
 * Jatropha marginata
 * Dryopteris × watanabei Kurata
     - フジオシダ
-* Angiopteris lygodiifolia
+* Angiopteris lygodiifolia Rosenst
     - リュウビンタイ
 * Hydnophytum papuanum
 * Utricularia livida
 * Tulipa linifolia
 * Scindapsus sp.
     - ポトス系原種
+* Scindapsus sp. 'Indonesia'
+    - ポトス系原種
+    - とんぶり2019
+* Morus sp. 'Charlotte Russe'
+    - マルベリー・シャルロットリュス
 * Trichodiadema bulbosum
     - 姫紅小松
 * Tillandsia duratii
@@ -350,21 +368,32 @@
     - Mrs Brown 第16942号 鈴もと
 * Helianthus annuus
 * Xerophyta sp.
+* Xerophyta cf. spekei
+* Dicksonia antarctica
 * Eriospermum cooperi
     - エリオスペルマム クーペリー
     - 発根管理中 2022/02/03 ~
     - いつの間にか枯れた。
 * Schlumbergera trucate 'Camilla'
 * Anthurium corrugatum
+* Anthurium scandens
 * Angelica keiskei
     - アシタバ
 * Bulbophyllum falcatum mini
 * Epipremnum pinnatum
     - ハブカズラ
     - 石垣島に生息しているモンステラみたいな植物
+* Epipremnum pinnatum 'Global Green'
+    - ポトス グローバルグリーン
 * Cyclamen persicum mini
     - ミニシクラメン
+* Cyclamen hederifolium
+    - 原種シクラメン
 * Soleirolia soleirolii
+* Quercus myrsinifolia
+    - シラカシ
+* Nageia nagi
+    - ナギ
 * Curcuma
 * Adenia ovata
     - アデニア・オバタ
@@ -382,6 +411,7 @@
 * Drosera madagascariensis
 * Drosera capensis
 * Drosera tokaiensis
+* Drosera spatulata var. lovellae
 * Lamium maculatum
 * Streptocarpus saxorum
 * Bulbophyllum japonicum
@@ -396,6 +426,7 @@
 * Sansevieria bacularis
 * Tillandsia usneoides
 * Euphorbia horwoodii f. cristata
+* Euphorbia turbiniformis
 * Cycas revoluta Thunb.
     - 蘇鉄
 * Euphorbia Acrurensis
@@ -483,6 +514,8 @@
     - ゴーストツリー
     - USDA Hardiness Zones possibly 9 - 10
     - 真冬含めて屋外管理していたら、春に腐って枯れていた。
+* Zeuxine agyokuana
+    - カゲロウラン
 
 ## メモ
 
