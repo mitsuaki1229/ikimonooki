@@ -130,9 +130,6 @@
 * Eriospermum dregei
     - エリオスペルマム ドレゲイ
     - 実生を導入してから1~2週間程で葉っぱが変色しはじめ、4週間程で葉っぱが黄色くなってしまった。昼間屋外夜間室内で管理。一時的なものなのか枯れたのかは不明。 2022/02/12
-* Eriospermum cooperi
-    - エリオスペルマム クーペリー
-    - 発根管理中 2022/02/03 ~
 * Ficus microcarpa
     - ガジュマル
     - 日の当たる軒下で冬期屋外管理可能だが、株にダメージは入っていそうな雰囲気を感じる。
@@ -331,6 +328,25 @@
 
 ### 過去育成履歴
 
+* Tillandsia duratii
+* Phalaenopsis aphrodite
+    - Mrs Brown 第16942号 鈴もと
+* Helianthus annuus
+* Xerophyta sp.
+* Eriospermum cooperi
+    - エリオスペルマム クーペリー
+    - 発根管理中 2022/02/03 ~
+    - いつの間にか枯れた。
+* Schlumbergera trucate 'Camilla'
+* Anthurium corrugatum
+* Angelica keiskei
+    - アシタバ
+* Bulbophyllum falcatum mini
+* Epipremnum pinnatum
+    - ハブカズラ
+    - 石垣島に生息しているモンステラみたいな植物
+* Cyclamen persicum mini
+    - ミニシクラメン
 * Soleirolia soleirolii
 * Curcuma
 * Adenia ovata
@@ -345,6 +361,8 @@
 * Hibiscus sabdariffa
     - ハイビスカス・ローゼル
 * Drosera flexicaulis
+* Drosera aliciae
+* Drosera madagascariensis
 * Lamium maculatum
 * Streptocarpus saxorum
 * Bulbophyllum japonicum
