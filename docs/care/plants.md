@@ -60,9 +60,6 @@
 * Angraecum distichum
     - アングレカム ディスティカム
     - USDA Hardiness Zones 10
-* Boophane disticha
-    - ブーファン・ディスティチャ
-    - USDA Hardiness Zones 9a - 10b
 * Bergeranthus multiceps (Salm-Dyck) Schwantes
     - USDA Hardiness Zones 8b - 10b
 * Brachychiton rupestris
@@ -271,7 +268,7 @@
 * Platycerium alcicorne
     - プラティケリウム・アルシコルネ
     - USDA hardiness zones 10b
-* Platycerium elephantotis
+* Platycerium elephantotis(angolense)
     - プラティケリウム・エレファントティス
 * Platycerium stemaria
     - プラティケリウム・ステマリア
@@ -336,9 +333,31 @@
 
 ### 過去育成履歴
 
+* Haworthia chlorantha
+* Begonia microsperma
+* Tylecodon reticulatus
+    - 万物想
+* Sansevieria bacularis
+* Tillandsia usneoides
+* Euphorbia horwoodii f. cristata
+* Cycas revoluta Thunb.
+    - 蘇鉄
+* Euphorbia Acrurensis
+    - 大雲閣
+* Platycerium ellisii
+    - ビカクシダ・エリシー
+* Euphorbia debilispina
+    - ユーフォルビア・デビリスピナ
+* Euphorbia schizacantha
+    - ユーフォルビア・シザカンサ
+* Lysionotus pauciflorus
+    - シシンラン
 * Acacia tortilis
     - サバンナ・アカシア
     - 水切れで枯らしてしまった...。
+* Boophane disticha
+    - ブーファン・ディスティチャ
+    - USDA Hardiness Zones 9a - 10b
 * Colysis pothifolia
     - オオイワヒトデ
     - 耐寒性:？
