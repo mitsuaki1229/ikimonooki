@@ -33,9 +33,6 @@
     - USDA Hardiness Zones 10a - 12
 * Adenium somalense
     - USDA Hardiness Zones 10a - 11b
-* Adenia ovata
-    - アデニア・オバタ
-    - 夏型 寒さには弱いとの事。
 * Acacia erioloba
     - キャメル ソーン
     - USDA Hardiness Zones 8b - 11
@@ -68,6 +65,7 @@
     - USDA Hardiness Zones 9 - 12
 * Boswellia neglecta
     - ボスウェリア ネグレクタ
+    - ソマリア産など産地によって幹の雰囲気が違う。
     - USDA Hardiness Zones 10a - 11
 * Chamaerops humilis
     - チャメロップス フミリス セリフェラ
@@ -333,6 +331,15 @@
 
 ### 過去育成履歴
 
+* Soleirolia soleirolii
+* Curcuma
+* Adenia ovata
+    - アデニア・オバタ
+    - 夏型 寒さには弱いとの事。
+* Viola mandshurica
+    - うすむらさき
+* Mussaenda parviflora
+    - 崑崙花
 * Portulaca oleracea
     - ポーチュラカ キャンディブーケ レッド
 * Hibiscus sabdariffa
@@ -401,7 +408,7 @@
     - パキラ・グラブラ
     - 耐寒性:日本では耐寒性が低いというので、室内のほうが無難そう。
     - USDA Hardiness Zones 9b - 11
-    - 春になる前に枯れた。上部と思い込んで割と雑に管理していたのがいけなかったか。
+    - 春になる前に枯れた。丈夫と思い込んで割と雑に管理していたのがいけなかったか。
 * Schotia brachypetala
     - アフリカングリーンハート
     - 株が小さいのもあり、水を上げなさすぎて枯れた。水は多めにあげたほうが良いかも。
