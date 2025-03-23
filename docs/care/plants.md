@@ -263,6 +263,7 @@
 * Platycerium alcicorne
     - プラティケリウム・アルシコルネ
     - USDA hardiness zones 10b
+    - マダガスカル産のものは雰囲気が違う。
 * Platycerium elephantotis(angolense)
     - プラティケリウム・エレファントティス
 * Platycerium stemaria
@@ -328,6 +329,22 @@
 
 ### 過去育成履歴
 
+* Rhododendron pulchrum
+    - ツツジ
+    - 彩香
+* Specklinia dressleri(syn. Pleurothallis dressleri)
+* Jatropha marginata
+* Dryopteris × watanabei Kurata
+    - フジオシダ
+* Angiopteris lygodiifolia
+    - リュウビンタイ
+* Hydnophytum papuanum
+* Utricularia livida
+* Tulipa linifolia
+* Scindapsus sp.
+    - ポトス系原種
+* Trichodiadema bulbosum
+    - 姫紅小松
 * Tillandsia duratii
 * Phalaenopsis aphrodite
     - Mrs Brown 第16942号 鈴もと
@@ -363,6 +380,8 @@
 * Drosera flexicaulis
 * Drosera aliciae
 * Drosera madagascariensis
+* Drosera capensis
+* Drosera tokaiensis
 * Lamium maculatum
 * Streptocarpus saxorum
 * Bulbophyllum japonicum
