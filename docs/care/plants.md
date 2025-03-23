@@ -238,7 +238,7 @@
     - USDA Hardiness Zones 8a - 10b
 * Othonna retrorsa
     - オトンナ・レトロルサ
-    - 耐寒性は高いとの事。
+    - 軒下無加温で管理できるが、暑さや蒸れに弱いのか、管理が悪いと夏場に枯れる。
 * Pachypodium bispinosum(succulentum?)
     - パキポディウム・ビスピノーサム(サキュレンタムのようにも見える。)
     - 産地:Eastern Cape Province of South Africa(South Africa)
@@ -333,6 +333,18 @@
 
 ### 過去育成履歴
 
+* Portulaca oleracea
+    - ポーチュラカ キャンディブーケ レッド
+* Hibiscus sabdariffa
+    - ハイビスカス・ローゼル
+* Drosera flexicaulis
+* Lamium maculatum
+* Streptocarpus saxorum
+* Bulbophyllum japonicum
+    - ミヤマムギラン
+* Platycerium bifurcatum
+* Ceiba pentandra
+    - カポック
 * Haworthia chlorantha
 * Begonia microsperma
 * Tylecodon reticulatus
