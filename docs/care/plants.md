@@ -326,6 +326,19 @@
 
 ### 過去育成履歴
 
+* Cordyline terminalis f. 'purple compacta'
+* Cichorium intybus
+    - イタリアンタンポポ
+    - グリーン
+    - ボールドレッド
+* ???
+    - 黄と赤 八重咲
+* stricta x recurvifolia
+    - Tillandsia Houston
+* Vaccinium spp. f. sunshine blue
+    - ブルーベリー サンシャインブルー
+* Mesembryanthemum crystallinum
+    - アイスプラント プリアン
 * Utricularia exoleta
     - イトタヌキモ
 * Morus alba f. 'Minamisakari'
@@ -345,6 +358,7 @@
 * Mentha spicata 'Moroccan'
     - モロッコミント
 * Bolbitis heudelotii
+* Bolbitis sp. Phantom WS from Bukittinggi【AZ1123-14】
 * Rhododendron sanctum var. lasiogynum
     - エクスバリーアザレア
     - ディレクターモーランド
