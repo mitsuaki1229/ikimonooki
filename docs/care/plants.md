@@ -326,6 +326,10 @@
 
 ### 過去育成履歴
 
+* Conophytum ursorungianum
+    - コノフィツム 小林ウルスプルンギアナム
+* Aglaonema pictum tricolor
+    - ちゃんぷーる BNN from Subolga timur【AZ1119-4h】No.9
 * Cordyline terminalis f. 'purple compacta'
 * Cichorium intybus
     - イタリアンタンポポ
