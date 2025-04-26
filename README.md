@@ -12,8 +12,8 @@ ikimonooki
 ## Install
 
 ```shell
-$ rbenv install 2.7.1
-$ rbenv local 2.7.1
+$ rbenv install 3.3.4
+$ rbenv local 3.3.4
 $ rbenv rehash
 ```
 
