@@ -111,6 +111,22 @@
 
 ### 両生類
 
+#### カエル
+
+* アマガエル(Dryophytes japonica)
+* モリアオガエル(Rhacophorus arboreus)
+* トノサマガエル(Pelophylax nigromaculatus)
+* アフリカウシガエル(Pyxicephalus adspersus)
+* アジアウキガエル(Occidozyga lima)
+* ヤマアカガエル(Rana ornativentris)
+* ニホンヒキガエル(Bufo japonicus)
+* ムシクイオオクサガエル(Leptopelis vermiculatus)
+* ワンガンオオクサガエル(Leptopelis spiritusnoctis)
+* クサガエルSP
+
+#### 有尾類
+
+* アカハライモリ(Cynops pyrrhogaster)
 * サンショウウオSP(Hynobius sp.)
 * [カスミサンショウウオ(Hynobius nebulosus)](creatures/hynobius-nebulosus.md)
 * トウホクサンショウウオ(Hynobius lichenatus)
@@ -120,17 +136,6 @@
 * セトウチサンショウウオ(Hynobius setouchi)
 * エゾサンショウウオ(Ezo salamander)
 * ヒダサンショウウオ(Hynobius kimurae)
-* アマガエル(Dryophytes japonica)
-* モリアオガエル(Rhacophorus arboreus)
-* トノサマガエル(Pelophylax nigromaculatus)
-* アフリカウシガエル(Pyxicephalus adspersus)
-* アジアウキガエル(Occidozyga lima)
-* ヤマアカガエル(Rana ornativentris)
-* アカハライモリ(Cynops pyrrhogaster)
-* ニホンヒキガエル(Bufo japonicus)
-* ムシクイオオクサガエル(Leptopelis vermiculatus)
-* ワンガンオオクサガエル(Leptopelis spiritusnoctis)
-* クサガエルSP
 
 ### 昆虫
 
