@@ -90,6 +90,7 @@
 * ニホンヤモリ(Gekko japonicus)
 * アフリカ産ヤモリ
 * ヘラオヤモリ(Uroplatus sp.)
+* スタンディングヒルヤモリ(Phelsuma standingi)
 
 #### ヘビ
 
