@@ -164,6 +164,7 @@
 * フタホシコオロギ(Gryllus bimaculatus)
 * ジャイアントミルワーム(ツヤケシオオゴミムシダマシ)(Zophobas morio)
 * ミルワーム(コメノゴミムシダマシ)(Tenebrio obscurus)
+* ニホンミツバチ(Apis cerana japonica)
 * 蚕(Bombyx mori)
 
 ### 甲殻類
@@ -209,6 +210,7 @@
 * ハツカネズミ(Mus musculus)
 * ラット(Rattus norvegicus)
 * ハリネズミ
+* ヤワゲネズミ(Mastomys natalensis)
 * ジャンガリアンハムスター
 * キンクマハムスター
 * イエネコ
