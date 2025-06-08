@@ -70,6 +70,7 @@
 * ジョンストンカメレオン(Trioceros johnstoni)
     - カメレオン飼育にハマった時のきっかけ。
 * フィッシャーカメレオン(Bradypodion fischeri)
+* ホーネリーカメレオン(Trioceros hoehnelii)
 * エメラルドツリーモニター(Varanus prasinus)
 * ニホントカゲ(Plestiodon japonicus)
 * ニホンカナヘビ (Takydromus tachydromoides)
