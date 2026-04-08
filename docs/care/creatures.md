@@ -92,6 +92,7 @@
 * アフリカ産ヤモリ
 * ヘラオヤモリ(Uroplatus sp.)
 * スタンディングヒルヤモリ(Phelsuma standingi)
+* ラエビスツリーラセルタ(Holaspis laevis)
 
 #### ヘビ
 
@@ -138,6 +139,8 @@
 * セトウチサンショウウオ(Hynobius setouchi)
 * エゾサンショウウオ(Ezo salamander)
 * ヒダサンショウウオ(Hynobius kimurae)
+* アルジェリアトゲイモリ(Pleurodeles nebulosus)
+* ティンギタナアルジェリアファイアサラマンダー(Salamandra algira tingitana)
 
 ### 昆虫
 
@@ -180,6 +183,7 @@
 * ヤシガニ(Birgus latro)
 * ミステリークレイフィッシュ(Procambarus fallax forma virginalis)
 * アメリカザリガニ(Procambarus clarkii)
+* チェリーシュリンプ
 
 ### 魚
 
