@@ -79,6 +79,7 @@
 * サキシマキノボリトカゲ(Diploderma polygonatum ishigakiensis)
 * サバクツノトカゲ(Phrynosoma platyrhinos)
 * ヒナタヨロイトカゲ(Cordylus tropidosternum)
+* クロヨロイトカゲ(Cordylus niger)
 * ゲイリートゲオアガマ(Uromastyx geyri)
 * シュナイダースキンク(Eumeces schneiderii)
 * アコンティアス(Acontias percivali)
