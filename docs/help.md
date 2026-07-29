@@ -63,8 +63,7 @@ permalink: /help/
 
 #### クレジットカード決済
 
-Visa / Mastercard(R) / UnionPay（銀聯）  
-JCB / American Express / Diners Club/Discover  
+非対応
 
 #### QRコード決済
 
